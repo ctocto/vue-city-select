@@ -1,2 +1,6 @@
 # vue-city-select
-vue 城市选择（拼音选择、3/4级联选择）
+vue 城市选择（拼音选择、3/4级联选择）, 城市数据源：[china-division](https://www.npmjs.com/package/china-division)
+
+![alt](./public/1.png)
+![alt](./public/2.png)
+![alt](./public/3.png)

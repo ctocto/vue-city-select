@@ -1,0 +1,5515 @@
+{
+    "A": [
+      {
+        "code": "652901",
+        "name": "阿克苏",
+        "pinyin": "Akesu",
+        "label": "Akesu0997",
+        "cityCode": "6529",
+        "provinceCode": "65"
+      },
+      { "code": "513231", "name": "阿坝", "pinyin": "Aba", "label": "Aba0837", "cityCode": "5132", "provinceCode": "51" },
+      { "code": "1529", "name": "阿拉善盟", "pinyin": "Alashanmeng", "label": "Alashanmeng0483", "provinceCode": "15" },
+      {
+        "code": "654301",
+        "name": "阿勒泰",
+        "pinyin": "Aletai",
+        "label": "Aletai0906",
+        "cityCode": "6543",
+        "provinceCode": "65"
+      },
+      { "code": "5425", "name": "阿里", "pinyin": "Ali", "label": "Ali0897", "provinceCode": "54" },
+      { "code": "6109", "name": "安康", "pinyin": "Ankang", "label": "Ankang0915", "provinceCode": "61" },
+      { "code": "3408", "name": "安庆", "pinyin": "Anqing", "label": "Anqing0556", "provinceCode": "34" },
+      { "code": "2103", "name": "鞍山", "pinyin": "Anshan", "label": "Anshan0412", "provinceCode": "21" },
+      { "code": "5204", "name": "安顺", "pinyin": "Anshun", "label": "Anshun0853", "provinceCode": "52" },
+      {
+        "code": "410522",
+        "name": "安阳",
+        "pinyin": "Anyang",
+        "label": "Anyang0372",
+        "cityCode": "4105",
+        "provinceCode": "41"
+      },
+      {
+        "code": "230112",
+        "name": "阿城",
+        "pinyin": "Acheng",
+        "label": "Acheng0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "360829",
+        "name": "安福",
+        "pinyin": "Anfu",
+        "label": "Anfu0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "330523",
+        "name": "安吉",
+        "pinyin": "Anji",
+        "label": "Anji0572",
+        "cityCode": "3305",
+        "provinceCode": "33"
+      },
+      {
+        "code": "530181",
+        "name": "安宁",
+        "pinyin": "Anning",
+        "label": "Anning0871",
+        "cityCode": "5301",
+        "provinceCode": "53"
+      },
+      {
+        "code": "370784",
+        "name": "安丘",
+        "pinyin": "Anqiu",
+        "label": "Anqiu0536",
+        "cityCode": "3707",
+        "provinceCode": "37"
+      },
+      {
+        "code": "350524",
+        "name": "安溪",
+        "pinyin": "Anxi",
+        "label": "Anxi0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "360123",
+        "name": "安义",
+        "pinyin": "Anyi",
+        "label": "Anyi0791",
+        "cityCode": "3601",
+        "provinceCode": "36"
+      },
+      {
+        "code": "360726",
+        "name": "安远",
+        "pinyin": "Anyuan",
+        "label": "Anyuan0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      }
+    ],
+    "B": [
+      { "code": "11", "name": "北京", "pinyin": "Beijing", "label": "Beijing010" },
+      { "code": "2208", "name": "白城", "pinyin": "Baicheng", "label": "Baicheng0436", "provinceCode": "22" },
+      { "code": "4510", "name": "百色", "pinyin": "Baise", "label": "Baise0776", "provinceCode": "45" },
+      { "code": "2206", "name": "白山", "pinyin": "Baishan", "label": "Baishan0439", "provinceCode": "22" },
+      {
+        "code": "620402",
+        "name": "白银",
+        "pinyin": "Baiyin",
+        "label": "Baiyin0943",
+        "cityCode": "6204",
+        "provinceCode": "62"
+      },
+      { "code": "3403", "name": "蚌埠", "pinyin": "Bangbu", "label": "Bangbu0552", "provinceCode": "34" },
+      { "code": "1306", "name": "保定", "pinyin": "Baoding", "label": "Baoding0312", "provinceCode": "13" },
+      { "code": "6103", "name": "宝鸡", "pinyin": "Baoji", "label": "Baoji0917", "provinceCode": "61" },
+      { "code": "5305", "name": "保山", "pinyin": "Baoshan", "label": "Baoshan0875", "provinceCode": "53" },
+      { "code": "1502", "name": "包头", "pinyin": "Baotou", "label": "Baotou0472", "provinceCode": "15" },
+      { "code": "1508", "name": "巴彦淖尔", "pinyin": "Bayannaoer", "label": "Bayannaoer0478", "provinceCode": "15" },
+      { "code": "0996", "name": "巴音郭楞", "pinyin": "Bayinguoleng", "label": "Bayinguoleng0996" },
+      { "code": "5119", "name": "巴中", "pinyin": "Bazhong", "label": "Bazhong0827", "provinceCode": "51" },
+      { "code": "4505", "name": "北海", "pinyin": "Beihai", "label": "Beihai0779", "provinceCode": "45" },
+      { "code": "2105", "name": "本溪", "pinyin": "Benxi", "label": "Benxi0414", "provinceCode": "21" },
+      { "code": "5205", "name": "毕节", "pinyin": "Bijie", "label": "Bijie0857", "provinceCode": "52" },
+      { "code": "3716", "name": "滨州", "pinyin": "Binzhou", "label": "Binzhou0543", "provinceCode": "37" },
+      { "code": "0909", "name": "博尔塔拉", "pinyin": "Boertala", "label": "Boertala0909" },
+      { "code": "3416", "name": "亳州", "pinyin": "Bozhou", "label": "Bozhou0558", "provinceCode": "34" },
+      {
+        "code": "321023",
+        "name": "宝应",
+        "pinyin": "Baoying",
+        "label": "Baoying0514",
+        "cityCode": "3210",
+        "provinceCode": "32"
+      },
+      {
+        "code": "230126",
+        "name": "巴彦",
+        "pinyin": "Bayan",
+        "label": "Bayan0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "320922",
+        "name": "滨海",
+        "pinyin": "Binhai",
+        "label": "Binhai0515",
+        "cityCode": "3209",
+        "provinceCode": "32"
+      },
+      {
+        "code": "230125",
+        "name": "宾县",
+        "pinyin": "Binxian",
+        "label": "Binxian0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "450126",
+        "name": "宾阳",
+        "pinyin": "Binyang",
+        "label": "Binyang0771",
+        "cityCode": "4501",
+        "provinceCode": "45"
+      },
+      {
+        "code": "500120",
+        "name": "璧山",
+        "pinyin": "Bishan",
+        "label": "Bishan023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "410822",
+        "name": "博爱",
+        "pinyin": "Boai",
+        "label": "Boai0391",
+        "cityCode": "4108",
+        "provinceCode": "41"
+      },
+      {
+        "code": "441322",
+        "name": "博罗",
+        "pinyin": "Boluo",
+        "label": "Boluo0752",
+        "cityCode": "4413",
+        "provinceCode": "44"
+      },
+      {
+        "code": "371625",
+        "name": "博兴",
+        "pinyin": "Boxing",
+        "label": "Boxing0543",
+        "cityCode": "3716",
+        "provinceCode": "37"
+      }
+    ],
+    "C": [
+      { "code": "50", "name": "重庆", "pinyin": "Chongqing", "label": "Chongqing023" },
+      { "code": "2201", "name": "长春", "pinyin": "Changchun", "label": "Changchun0431", "provinceCode": "22" },
+      {
+        "code": "430121",
+        "name": "长沙",
+        "pinyin": "Changsha",
+        "label": "Changsha0731",
+        "cityCode": "4301",
+        "provinceCode": "43"
+      },
+      { "code": "3204", "name": "常州", "pinyin": "Changzhou", "label": "Changzhou0519", "provinceCode": "32" },
+      { "code": "5101", "name": "成都", "pinyin": "Chengdu", "label": "Chengdu028", "provinceCode": "51" },
+      { "code": "1309", "name": "沧州", "pinyin": "Cangzhou", "label": "Cangzhou0317", "provinceCode": "13" },
+      { "code": "4307", "name": "常德", "pinyin": "Changde", "label": "Changde0736", "provinceCode": "43" },
+      { "code": "5403", "name": "昌都", "pinyin": "Changdu", "label": "Changdu0895", "provinceCode": "54" },
+      {
+        "code": "652301",
+        "name": "昌吉",
+        "pinyin": "Changji",
+        "label": "Changji0997",
+        "cityCode": "6523",
+        "provinceCode": "65"
+      },
+      { "code": "1404", "name": "长治", "pinyin": "Changzhi", "label": "Changzhi0355", "provinceCode": "14" },
+      {
+        "code": "340181",
+        "name": "巢湖",
+        "pinyin": "Chaohu",
+        "label": "Chaohu0565",
+        "cityCode": "3401",
+        "provinceCode": "34"
+      },
+      {
+        "code": "110105",
+        "name": "朝阳",
+        "pinyin": "Chaoyang",
+        "label": "Chaoyang0421",
+        "cityCode": "1101",
+        "provinceCode": "11"
+      },
+      { "code": "4451", "name": "潮州", "pinyin": "Chaozhou", "label": "Chaozhou0768", "provinceCode": "44" },
+      {
+        "code": "130821",
+        "name": "承德",
+        "pinyin": "Chengde",
+        "label": "Chengde0314",
+        "cityCode": "1308",
+        "provinceCode": "13"
+      },
+      { "code": "4310", "name": "郴州", "pinyin": "Chenzhou", "label": "Chenzhou0735", "provinceCode": "43" },
+      { "code": "1504", "name": "赤峰", "pinyin": "Chifeng", "label": "Chifeng0476", "provinceCode": "15" },
+      { "code": "3417", "name": "池州", "pinyin": "Chizhou", "label": "Chizhou0566", "provinceCode": "34" },
+      { "code": "4514", "name": "崇左", "pinyin": "Chongzuo", "label": "Chongzuo0771", "provinceCode": "45" },
+      {
+        "code": "532301",
+        "name": "楚雄",
+        "pinyin": "Chuxiong",
+        "label": "Chuxiong0875",
+        "cityCode": "5323",
+        "provinceCode": "53"
+      },
+      { "code": "3411", "name": "滁州", "pinyin": "Chuzhou", "label": "Chuzhou0550", "provinceCode": "34" },
+      {
+        "code": "330327",
+        "name": "苍南",
+        "pinyin": "Cangnan",
+        "label": "Cangnan0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      { "code": "0539", "name": "苍山", "pinyin": "Cangshan", "label": "Cangshan0539" },
+      {
+        "code": "371721",
+        "name": "曹县",
+        "pinyin": "Caoxian",
+        "label": "Caoxian0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      },
+      {
+        "code": "370634",
+        "name": "长岛",
+        "pinyin": "Changdao",
+        "label": "Changdao0535",
+        "cityCode": "3706",
+        "provinceCode": "37"
+      },
+      {
+        "code": "340121",
+        "name": "长丰",
+        "pinyin": "Changfeng",
+        "label": "Changfeng0551",
+        "cityCode": "3401",
+        "provinceCode": "34"
+      },
+      {
+        "code": "210224",
+        "name": "长海",
+        "pinyin": "Changhai",
+        "label": "Changhai0411",
+        "cityCode": "2102",
+        "provinceCode": "21"
+      },
+      {
+        "code": "350112",
+        "name": "长乐",
+        "pinyin": "Changle",
+        "label": "Changle0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "370725",
+        "name": "昌乐",
+        "pinyin": "Changle",
+        "label": "Changle0536",
+        "cityCode": "3707",
+        "provinceCode": "37"
+      },
+      {
+        "code": "330822",
+        "name": "常山",
+        "pinyin": "Changshan",
+        "label": "Changshan0570",
+        "cityCode": "3308",
+        "provinceCode": "33"
+      },
+      {
+        "code": "320581",
+        "name": "常熟",
+        "pinyin": "Changshu",
+        "label": "Changshu0512",
+        "cityCode": "3205",
+        "provinceCode": "32"
+      },
+      {
+        "code": "350625",
+        "name": "长泰",
+        "pinyin": "Changtai",
+        "label": "Changtai0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350821",
+        "name": "长汀",
+        "pinyin": "Changting",
+        "label": "Changting0597",
+        "cityCode": "3508",
+        "provinceCode": "35"
+      },
+      {
+        "code": "330522",
+        "name": "长兴",
+        "pinyin": "Changxing",
+        "label": "Changxing0572",
+        "cityCode": "3305",
+        "provinceCode": "33"
+      },
+      {
+        "code": "220202",
+        "name": "昌邑",
+        "pinyin": "Changyi",
+        "label": "Changyi0536",
+        "cityCode": "2202",
+        "provinceCode": "22"
+      },
+      {
+        "code": "445103",
+        "name": "潮安",
+        "pinyin": "Chaoan",
+        "label": "Chaoan0768",
+        "cityCode": "4451",
+        "provinceCode": "44"
+      },
+      {
+        "code": "530114",
+        "name": "呈贡",
+        "pinyin": "Chenggong",
+        "label": "Chenggong0871",
+        "cityCode": "5301",
+        "provinceCode": "53"
+      },
+      {
+        "code": "500229",
+        "name": "城口",
+        "pinyin": "Chengkou",
+        "label": "Chengkou023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "371723",
+        "name": "成武",
+        "pinyin": "Chengwu",
+        "label": "Chengwu0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371503",
+        "name": "茌平",
+        "pinyin": "Chiping",
+        "label": "Chiping0635",
+        "cityCode": "3715",
+        "provinceCode": "37"
+      },
+      {
+        "code": "361024",
+        "name": "崇仁",
+        "pinyin": "Chongren",
+        "label": "Chongren0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "360725",
+        "name": "崇义",
+        "pinyin": "Chongyi",
+        "label": "Chongyi0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "510184",
+        "name": "崇州",
+        "pinyin": "Chongzhou",
+        "label": "Chongzhou028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "330127",
+        "name": "淳安",
+        "pinyin": "Chunan",
+        "label": "Chunan0571",
+        "cityCode": "3301",
+        "provinceCode": "33"
+      },
+      {
+        "code": "330282",
+        "name": "慈溪",
+        "pinyin": "Cixi",
+        "label": "Cixi0574",
+        "cityCode": "3302",
+        "provinceCode": "33"
+      },
+      {
+        "code": "440117",
+        "name": "从化",
+        "pinyin": "Conghua",
+        "label": "Conghua020",
+        "cityCode": "4401",
+        "provinceCode": "44"
+      },
+      {
+        "code": "340722",
+        "name": "枞阳",
+        "pinyin": "Congyang",
+        "label": "Congyang0556",
+        "cityCode": "3407",
+        "provinceCode": "34"
+      }
+    ],
+    "D": [
+      { "code": "2102", "name": "大连", "pinyin": "Dalian", "label": "Dalian0411", "provinceCode": "21" },
+      {
+        "code": "441900",
+        "name": "东莞",
+        "pinyin": "Dongguan",
+        "label": "Dongguan0769",
+        "cityCode": "4419",
+        "provinceCode": "44"
+      },
+      {
+        "code": "532901",
+        "name": "大理",
+        "pinyin": "Dali",
+        "label": "Dali0872",
+        "cityCode": "5329",
+        "provinceCode": "53"
+      },
+      { "code": "2106", "name": "丹东", "pinyin": "Dandong", "label": "Dandong0415", "provinceCode": "21" },
+      { "code": "2306", "name": "大庆", "pinyin": "Daqing", "label": "Daqing0459", "provinceCode": "23" },
+      {
+        "code": "230606",
+        "name": "大同",
+        "pinyin": "Datong",
+        "label": "Datong0352",
+        "cityCode": "2306",
+        "provinceCode": "23"
+      },
+      { "code": "2327", "name": "大兴安岭", "pinyin": "Daxinganling", "label": "Daxinganling0457", "provinceCode": "23" },
+      { "code": "5117", "name": "达州", "pinyin": "Dazhou", "label": "Dazhou0818", "provinceCode": "51" },
+      { "code": "0692", "name": "德宏", "pinyin": "Dehong", "label": "Dehong0692" },
+      { "code": "5106", "name": "德阳", "pinyin": "Deyang", "label": "Deyang0838", "provinceCode": "51" },
+      { "code": "3714", "name": "德州", "pinyin": "Dezhou", "label": "Dezhou0534", "provinceCode": "37" },
+      { "code": "6211", "name": "定西", "pinyin": "Dingxi", "label": "Dingxi0932", "provinceCode": "62" },
+      { "code": "0887", "name": "迪庆", "pinyin": "Diqing", "label": "Diqing0887" },
+      {
+        "code": "370502",
+        "name": "东营",
+        "pinyin": "Dongying",
+        "label": "Dongying0546",
+        "cityCode": "3705",
+        "provinceCode": "37"
+      },
+      {
+        "code": "320904",
+        "name": "大丰",
+        "pinyin": "Dafeng",
+        "label": "Dafeng0515",
+        "cityCode": "3209",
+        "provinceCode": "32"
+      },
+      {
+        "code": "330921",
+        "name": "岱山",
+        "pinyin": "Daishan",
+        "label": "Daishan0580",
+        "cityCode": "3309",
+        "provinceCode": "33"
+      },
+      {
+        "code": "341321",
+        "name": "砀山",
+        "pinyin": "Dangshan",
+        "label": "Dangshan0557",
+        "cityCode": "3413",
+        "provinceCode": "34"
+      },
+      {
+        "code": "340521",
+        "name": "当涂",
+        "pinyin": "Dangtu",
+        "label": "Dangtu0555",
+        "cityCode": "3405",
+        "provinceCode": "34"
+      },
+      {
+        "code": "371722",
+        "name": "单县",
+        "pinyin": "Danxian",
+        "label": "Danxian0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      },
+      {
+        "code": "321181",
+        "name": "丹阳",
+        "pinyin": "Danyang",
+        "label": "Danyang0511",
+        "cityCode": "3211",
+        "provinceCode": "32"
+      },
+      {
+        "code": "441422",
+        "name": "大埔",
+        "pinyin": "Dapu",
+        "label": "Dapu0753",
+        "cityCode": "4414",
+        "provinceCode": "44"
+      },
+      {
+        "code": "350425",
+        "name": "大田",
+        "pinyin": "Datian",
+        "label": "Datian0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "510129",
+        "name": "大邑",
+        "pinyin": "Dayi",
+        "label": "Dayi028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "360723",
+        "name": "大余",
+        "pinyin": "Dayu",
+        "label": "Dayu0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "500111",
+        "name": "大足",
+        "pinyin": "Dazu",
+        "label": "Dazu023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "360426",
+        "name": "德安",
+        "pinyin": "Dean",
+        "label": "Dean0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350526",
+        "name": "德化",
+        "pinyin": "Dehua",
+        "label": "Dehua0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "220183",
+        "name": "德惠",
+        "pinyin": "Dehui",
+        "label": "Dehui0431",
+        "cityCode": "2201",
+        "provinceCode": "22"
+      },
+      {
+        "code": "410185",
+        "name": "登封",
+        "pinyin": "Dengfeng",
+        "label": "Dengfeng0371",
+        "cityCode": "4101",
+        "provinceCode": "41"
+      },
+      {
+        "code": "330521",
+        "name": "德清",
+        "pinyin": "Deqing",
+        "label": "Deqing0572",
+        "cityCode": "3305",
+        "provinceCode": "33"
+      },
+      {
+        "code": "441226",
+        "name": "德庆",
+        "pinyin": "Deqing",
+        "label": "Deqing0758",
+        "cityCode": "4412",
+        "provinceCode": "44"
+      },
+      {
+        "code": "361181",
+        "name": "德兴",
+        "pinyin": "Dexing",
+        "label": "Dexing0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "440904",
+        "name": "电白",
+        "pinyin": "Dianbai",
+        "label": "Dianbai0668",
+        "cityCode": "4409",
+        "provinceCode": "44"
+      },
+      {
+        "code": "500231",
+        "name": "垫江",
+        "pinyin": "Dianjiang",
+        "label": "Dianjiang023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "360728",
+        "name": "定南",
+        "pinyin": "Dingnan",
+        "label": "Dingnan0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "371703",
+        "name": "定陶",
+        "pinyin": "Dingtao",
+        "label": "Dingtao0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      },
+      {
+        "code": "341125",
+        "name": "定远",
+        "pinyin": "Dingyuan",
+        "label": "Dingyuan0550",
+        "cityCode": "3411",
+        "provinceCode": "34"
+      },
+      {
+        "code": "371524",
+        "name": "东阿",
+        "pinyin": "Donga",
+        "label": "Donga0635",
+        "cityCode": "3715",
+        "provinceCode": "37"
+      },
+      {
+        "code": "320722",
+        "name": "东海",
+        "pinyin": "Donghai",
+        "label": "Donghai0518",
+        "cityCode": "3207",
+        "provinceCode": "32"
+      },
+      {
+        "code": "371728",
+        "name": "东明",
+        "pinyin": "Dongming",
+        "label": "Dongming0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      },
+      {
+        "code": "370923",
+        "name": "东平",
+        "pinyin": "Dongping",
+        "label": "Dongping0538",
+        "cityCode": "3709",
+        "provinceCode": "37"
+      },
+      {
+        "code": "230406",
+        "name": "东山",
+        "pinyin": "Dongshan",
+        "label": "Dongshan0596",
+        "cityCode": "2304",
+        "provinceCode": "23"
+      },
+      {
+        "code": "320981",
+        "name": "东台",
+        "pinyin": "Dongtai",
+        "label": "Dongtai0515",
+        "cityCode": "3209",
+        "provinceCode": "32"
+      },
+      {
+        "code": "330305",
+        "name": "洞头",
+        "pinyin": "Dongtou",
+        "label": "Dongtou0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      {
+        "code": "361003",
+        "name": "东乡",
+        "pinyin": "Dongxiang",
+        "label": "Dongxiang0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "330783",
+        "name": "东阳",
+        "pinyin": "Dongyang",
+        "label": "Dongyang0579",
+        "cityCode": "3307",
+        "provinceCode": "33"
+      },
+      {
+        "code": "441625",
+        "name": "东源",
+        "pinyin": "Dongyuan",
+        "label": "Dongyuan0762",
+        "cityCode": "4416",
+        "provinceCode": "44"
+      },
+      {
+        "code": "341721",
+        "name": "东至",
+        "pinyin": "Dongzhi",
+        "label": "Dongzhi0566",
+        "cityCode": "3417",
+        "provinceCode": "34"
+      },
+      {
+        "code": "360428",
+        "name": "都昌",
+        "pinyin": "Duchang",
+        "label": "Duchang0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "510181",
+        "name": "都江堰",
+        "pinyin": "Dujiangyan",
+        "label": "Dujiangyan028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      }
+    ],
+    "E": [
+      {
+        "code": "422801",
+        "name": "恩施",
+        "pinyin": "Enshi",
+        "label": "Enshi0718",
+        "cityCode": "4228",
+        "provinceCode": "42"
+      },
+      { "code": "1506", "name": "鄂尔多斯", "pinyin": "Eerduosi", "label": "Eerduosi0477", "provinceCode": "15" },
+      { "code": "4207", "name": "鄂州", "pinyin": "Ezhou", "label": "Ezhou0711", "provinceCode": "42" },
+      {
+        "code": "440785",
+        "name": "恩平",
+        "pinyin": "Enping",
+        "label": "Enping0750",
+        "cityCode": "4407",
+        "provinceCode": "44"
+      }
+    ],
+    "F": [
+      {
+        "code": "210421",
+        "name": "抚顺",
+        "pinyin": "Fushun",
+        "label": "Fushun0413",
+        "cityCode": "2104",
+        "provinceCode": "21"
+      },
+      { "code": "4406", "name": "佛山", "pinyin": "Foshan", "label": "Foshan0757", "provinceCode": "44" },
+      { "code": "3501", "name": "福州", "pinyin": "Fuzhou", "label": "Fuzhou0591", "provinceCode": "35" },
+      { "code": "4506", "name": "防城港", "pinyin": "Fangchenggang", "label": "Fangchenggang0770", "provinceCode": "45" },
+      { "code": "2109", "name": "阜新", "pinyin": "Fuxin", "label": "Fuxin0418", "provinceCode": "21" },
+      { "code": "3412", "name": "阜阳", "pinyin": "Fuyang", "label": "Fuyang0558", "provinceCode": "34" },
+      { "code": "3610", "name": "抚州", "pinyin": "Fuzhou", "label": "Fuzhou0794", "provinceCode": "36" },
+      {
+        "code": "210124",
+        "name": "法库",
+        "pinyin": "Faku",
+        "label": "Faku024",
+        "cityCode": "2101",
+        "provinceCode": "21"
+      },
+      {
+        "code": "340222",
+        "name": "繁昌",
+        "pinyin": "Fanchang",
+        "label": "Fanchang0553",
+        "cityCode": "3402",
+        "provinceCode": "34"
+      },
+      {
+        "code": "230124",
+        "name": "方正",
+        "pinyin": "Fangzheng",
+        "label": "Fangzheng0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "370983",
+        "name": "肥城",
+        "pinyin": "Feicheng",
+        "label": "Feicheng0538",
+        "cityCode": "3709",
+        "provinceCode": "37"
+      },
+      {
+        "code": "340122",
+        "name": "肥东",
+        "pinyin": "Feidong",
+        "label": "Feidong0551",
+        "cityCode": "3401",
+        "provinceCode": "34"
+      },
+      {
+        "code": "340123",
+        "name": "肥西",
+        "pinyin": "Feixi",
+        "label": "Feixi0551",
+        "cityCode": "3401",
+        "provinceCode": "34"
+      },
+      {
+        "code": "371325",
+        "name": "费县",
+        "pinyin": "Feixian",
+        "label": "Feixian0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360981",
+        "name": "丰城",
+        "pinyin": "Fengcheng",
+        "label": "Fengcheng0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "500230",
+        "name": "丰都",
+        "pinyin": "Fengdu",
+        "label": "Fengdu023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "330213",
+        "name": "奉化",
+        "pinyin": "Fenghua",
+        "label": "Fenghua0574",
+        "cityCode": "3302",
+        "provinceCode": "33"
+      },
+      {
+        "code": "500236",
+        "name": "奉节",
+        "pinyin": "Fengjie",
+        "label": "Fengjie023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "441225",
+        "name": "封开",
+        "pinyin": "Fengkai",
+        "label": "Fengkai0758",
+        "cityCode": "4412",
+        "provinceCode": "44"
+      },
+      {
+        "code": "441423",
+        "name": "丰顺",
+        "pinyin": "Fengshun",
+        "label": "Fengshun0753",
+        "cityCode": "4414",
+        "provinceCode": "44"
+      },
+      {
+        "code": "340421",
+        "name": "凤台",
+        "pinyin": "Fengtai",
+        "label": "Fengtai0554",
+        "cityCode": "3404",
+        "provinceCode": "34"
+      },
+      {
+        "code": "320321",
+        "name": "丰县",
+        "pinyin": "Fengxian",
+        "label": "Fengxian0516",
+        "cityCode": "3203",
+        "provinceCode": "32"
+      },
+      {
+        "code": "360921",
+        "name": "奉新",
+        "pinyin": "Fengxin",
+        "label": "Fengxin0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "341126",
+        "name": "凤阳",
+        "pinyin": "Fengyang",
+        "label": "Fengyang0550",
+        "cityCode": "3411",
+        "provinceCode": "34"
+      },
+      {
+        "code": "360521",
+        "name": "分宜",
+        "pinyin": "Fenyi",
+        "label": "Fenyi0790",
+        "cityCode": "3605",
+        "provinceCode": "36"
+      },
+      {
+        "code": "441821",
+        "name": "佛冈",
+        "pinyin": "Fogang",
+        "label": "Fogang0763",
+        "cityCode": "4418",
+        "provinceCode": "44"
+      },
+      {
+        "code": "350981",
+        "name": "福安",
+        "pinyin": "Fuan",
+        "label": "Fuan0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350982",
+        "name": "福鼎",
+        "pinyin": "Fuding",
+        "label": "Fuding0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "360222",
+        "name": "浮梁",
+        "pinyin": "Fuliang",
+        "label": "Fuliang0798",
+        "cityCode": "3602",
+        "provinceCode": "36"
+      },
+      {
+        "code": "530124",
+        "name": "富民",
+        "pinyin": "Fumin",
+        "label": "Fumin0871",
+        "cityCode": "5301",
+        "provinceCode": "53"
+      },
+      {
+        "code": "341225",
+        "name": "阜南",
+        "pinyin": "Funan",
+        "label": "Funan0558",
+        "cityCode": "3412",
+        "provinceCode": "34"
+      },
+      {
+        "code": "320923",
+        "name": "阜宁",
+        "pinyin": "Funing",
+        "label": "Funing0515",
+        "cityCode": "3209",
+        "provinceCode": "32"
+      },
+      {
+        "code": "350181",
+        "name": "福清",
+        "pinyin": "Fuqing",
+        "label": "Fuqing0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "330111",
+        "name": "富阳",
+        "pinyin": "Fuyang",
+        "label": "Fuyang0571",
+        "cityCode": "3301",
+        "provinceCode": "33"
+      }
+    ],
+    "G": [
+      {
+        "code": "230225",
+        "name": "甘南",
+        "pinyin": "Gannan",
+        "label": "Gannan0941",
+        "cityCode": "2302",
+        "provinceCode": "23"
+      },
+      { "code": "4401", "name": "广州", "pinyin": "Guangzhou", "label": "Guangzhou020", "provinceCode": "44" },
+      { "code": "5201", "name": "贵阳", "pinyin": "Guiyang", "label": "Guiyang0851", "provinceCode": "52" },
+      { "code": "3607", "name": "赣州", "pinyin": "Ganzhou", "label": "Ganzhou0797", "provinceCode": "36" },
+      {
+        "code": "513328",
+        "name": "甘孜",
+        "pinyin": "Ganzi",
+        "label": "Ganzi0836",
+        "cityCode": "5133",
+        "provinceCode": "51"
+      },
+      {
+        "code": "511602",
+        "name": "广安",
+        "pinyin": "Guangan",
+        "label": "Guangan0826",
+        "cityCode": "5116",
+        "provinceCode": "51"
+      },
+      { "code": "5108", "name": "广元", "pinyin": "Guangyuan", "label": "Guangyuan0839", "provinceCode": "51" },
+      { "code": "4508", "name": "贵港", "pinyin": "Guigang", "label": "Guigang0775", "provinceCode": "45" },
+      { "code": "4503", "name": "桂林", "pinyin": "Guilin", "label": "Guilin0773", "provinceCode": "45" },
+      { "code": "0975", "name": "果洛", "pinyin": "Guoluo", "label": "Guoluo0975" },
+      { "code": "6404", "name": "固原", "pinyin": "Guyuan", "label": "Guyuan0954", "provinceCode": "64" },
+      {
+        "code": "360704",
+        "name": "赣县",
+        "pinyin": "Ganxian",
+        "label": "Ganxian0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "320707",
+        "name": "赣榆",
+        "pinyin": "Ganyu",
+        "label": "Ganyu0518",
+        "cityCode": "3207",
+        "provinceCode": "32"
+      },
+      {
+        "code": "360983",
+        "name": "高安",
+        "pinyin": "Gaoan",
+        "label": "Gaoan0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "130109",
+        "name": "藁城",
+        "pinyin": "Gaocheng",
+        "label": "Gaocheng0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "320118",
+        "name": "高淳",
+        "pinyin": "Gaochun",
+        "label": "Gaochun025",
+        "cityCode": "3201",
+        "provinceCode": "32"
+      },
+      {
+        "code": "620122",
+        "name": "皋兰",
+        "pinyin": "Gaolan",
+        "label": "Gaolan0931",
+        "cityCode": "6201",
+        "provinceCode": "62"
+      },
+      {
+        "code": "610117",
+        "name": "高陵",
+        "pinyin": "Gaoling",
+        "label": "Gaoling029",
+        "cityCode": "6101",
+        "provinceCode": "61"
+      },
+      {
+        "code": "370785",
+        "name": "高密",
+        "pinyin": "Gaomi",
+        "label": "Gaomi0536",
+        "cityCode": "3707",
+        "provinceCode": "37"
+      },
+      {
+        "code": "370322",
+        "name": "高青",
+        "pinyin": "Gaoqing",
+        "label": "Gaoqing0533",
+        "cityCode": "3703",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371526",
+        "name": "高唐",
+        "pinyin": "Gaotang",
+        "label": "Gaotang0635",
+        "cityCode": "3715",
+        "provinceCode": "37"
+      },
+      {
+        "code": "441204",
+        "name": "高要",
+        "pinyin": "Gaoyao",
+        "label": "Gaoyao0758",
+        "cityCode": "4412",
+        "provinceCode": "44"
+      },
+      {
+        "code": "130127",
+        "name": "高邑",
+        "pinyin": "Gaoyi",
+        "label": "Gaoyi0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "321084",
+        "name": "高邮",
+        "pinyin": "Gaoyou",
+        "label": "Gaoyou0514",
+        "cityCode": "3210",
+        "provinceCode": "32"
+      },
+      {
+        "code": "440981",
+        "name": "高州",
+        "pinyin": "Gaozhou",
+        "label": "Gaozhou0668",
+        "cityCode": "4409",
+        "provinceCode": "44"
+      },
+      {
+        "code": "410181",
+        "name": "巩义",
+        "pinyin": "Gongyi",
+        "label": "Gongyi0371",
+        "cityCode": "4101",
+        "provinceCode": "41"
+      },
+      {
+        "code": "361030",
+        "name": "广昌",
+        "pinyin": "Guangchang",
+        "label": "Guangchang0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "341882",
+        "name": "广德",
+        "pinyin": "Guangde",
+        "label": "Guangde0563",
+        "cityCode": "3418",
+        "provinceCode": "34"
+      },
+      {
+        "code": "361103",
+        "name": "广丰",
+        "pinyin": "Guangfeng",
+        "label": "Guangfeng0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "441223",
+        "name": "广宁",
+        "pinyin": "Guangning",
+        "label": "Guangning0758",
+        "cityCode": "4412",
+        "provinceCode": "44"
+      },
+      {
+        "code": "370523",
+        "name": "广饶",
+        "pinyin": "Guangrao",
+        "label": "Guangrao0546",
+        "cityCode": "3705",
+        "provinceCode": "37"
+      },
+      {
+        "code": "350723",
+        "name": "光泽",
+        "pinyin": "Guangze",
+        "label": "Guangze0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "320724",
+        "name": "灌南",
+        "pinyin": "Guannan",
+        "label": "Guannan0518",
+        "cityCode": "3207",
+        "provinceCode": "32"
+      },
+      {
+        "code": "371525",
+        "name": "冠县",
+        "pinyin": "Guanxian",
+        "label": "Guanxian0635",
+        "cityCode": "3715",
+        "provinceCode": "37"
+      },
+      {
+        "code": "320723",
+        "name": "灌云",
+        "pinyin": "Guanyun",
+        "label": "Guanyun0518",
+        "cityCode": "3207",
+        "provinceCode": "32"
+      },
+      {
+        "code": "360681",
+        "name": "贵溪",
+        "pinyin": "Guixi",
+        "label": "Guixi0701",
+        "cityCode": "3606",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350922",
+        "name": "古田",
+        "pinyin": "Gutian",
+        "label": "Gutian0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "340323",
+        "name": "固镇",
+        "pinyin": "Guzhen",
+        "label": "Guzhen0552",
+        "cityCode": "3403",
+        "provinceCode": "34"
+      }
+    ],
+    "H": [
+      { "code": "0970", "name": "海北", "pinyin": "Haibei", "label": "Haibei0970" },
+      { "code": "2301", "name": "哈尔滨", "pinyin": "Haerbin", "label": "Haerbin0451", "provinceCode": "23" },
+      { "code": "4601", "name": "海口", "pinyin": "Haikou", "label": "Haikou0898", "provinceCode": "46" },
+      { "code": "1304", "name": "邯郸", "pinyin": "Handan", "label": "Handan0310", "provinceCode": "13" },
+      { "code": "3301", "name": "杭州", "pinyin": "Hangzhou", "label": "Hangzhou0571", "provinceCode": "33" },
+      { "code": "3401", "name": "合肥", "pinyin": "Hefei", "label": "Hefei0551", "provinceCode": "34" },
+      { "code": "4413", "name": "惠州", "pinyin": "Huizhou", "label": "Huizhou0752", "provinceCode": "44" },
+      { "code": "6302", "name": "海东", "pinyin": "Haidong", "label": "Haidong0972", "provinceCode": "63" },
+      {
+        "code": "150303",
+        "name": "海南",
+        "pinyin": "Hainan",
+        "label": "Hainan0974",
+        "cityCode": "1503",
+        "provinceCode": "15"
+      },
+      { "code": "0977", "name": "海西", "pinyin": "Haixi", "label": "Haixi0977" },
+      { "code": "6505", "name": "哈密", "pinyin": "Hami", "label": "Hami0902", "provinceCode": "65" },
+      { "code": "6107", "name": "汉中", "pinyin": "Hanzhong", "label": "Hanzhong0916", "provinceCode": "61" },
+      { "code": "4106", "name": "鹤壁", "pinyin": "Hebi", "label": "Hebi0392", "provinceCode": "41" },
+      { "code": "4512", "name": "河池", "pinyin": "Hechi", "label": "Hechi0778", "provinceCode": "45" },
+      { "code": "2304", "name": "鹤岗", "pinyin": "Hegang", "label": "Hegang0468", "provinceCode": "23" },
+      { "code": "2311", "name": "黑河", "pinyin": "Heihe", "label": "Heihe0456", "provinceCode": "23" },
+      { "code": "1311", "name": "衡水", "pinyin": "Hengshui", "label": "Hengshui0318", "provinceCode": "13" },
+      {
+        "code": "430421",
+        "name": "衡阳",
+        "pinyin": "Hengyang",
+        "label": "Hengyang0734",
+        "cityCode": "4304",
+        "provinceCode": "43"
+      },
+      { "code": "0903", "name": "和田地", "pinyin": "Hetiandi", "label": "Hetiandi0903" },
+      { "code": "4416", "name": "河源", "pinyin": "Heyuan", "label": "Heyuan0762", "provinceCode": "44" },
+      { "code": "3717", "name": "菏泽", "pinyin": "Heze", "label": "Heze0530", "provinceCode": "37" },
+      { "code": "4511", "name": "贺州", "pinyin": "Hezhou", "label": "Hezhou0774", "provinceCode": "45" },
+      {
+        "code": "532529",
+        "name": "红河",
+        "pinyin": "Honghe",
+        "label": "Honghe0873",
+        "cityCode": "5325",
+        "provinceCode": "53"
+      },
+      {
+        "code": "320803",
+        "name": "淮安",
+        "pinyin": "Huaian",
+        "label": "Huaian0517",
+        "cityCode": "3208",
+        "provinceCode": "32"
+      },
+      { "code": "3406", "name": "淮北", "pinyin": "Huaibei", "label": "Huaibei0561", "provinceCode": "34" },
+      { "code": "4312", "name": "怀化", "pinyin": "Huaihua", "label": "Huaihua0745", "provinceCode": "43" },
+      { "code": "3404", "name": "淮南", "pinyin": "Huainan", "label": "Huainan0554", "provinceCode": "34" },
+      { "code": "4211", "name": "黄冈", "pinyin": "Huanggang", "label": "Huanggang0713", "provinceCode": "42" },
+      { "code": "0973", "name": "黄南", "pinyin": "Huangnan", "label": "Huangnan0973" },
+      {
+        "code": "341003",
+        "name": "黄山",
+        "pinyin": "Huangshan",
+        "label": "Huangshan0559",
+        "cityCode": "3410",
+        "provinceCode": "34"
+      },
+      { "code": "4202", "name": "黄石", "pinyin": "Huangshi", "label": "Huangshi0714", "provinceCode": "42" },
+      { "code": "1501", "name": "呼和浩特", "pinyin": "Huhehaote", "label": "Huhehaote0471", "provinceCode": "15" },
+      { "code": "2114", "name": "葫芦岛", "pinyin": "Huludao", "label": "Huludao0429", "provinceCode": "21" },
+      { "code": "1507", "name": "呼伦贝尔", "pinyin": "Hulunbeier", "label": "Hulunbeier0470", "provinceCode": "15" },
+      { "code": "3305", "name": "湖州", "pinyin": "Huzhou", "label": "Huzhou0572", "provinceCode": "33" },
+      {
+        "code": "320685",
+        "name": "海安",
+        "pinyin": "Haian",
+        "label": "Haian0513",
+        "cityCode": "3206",
+        "provinceCode": "32"
+      },
+      {
+        "code": "441521",
+        "name": "海丰",
+        "pinyin": "Haifeng",
+        "label": "Haifeng0660",
+        "cityCode": "4415",
+        "provinceCode": "44"
+      },
+      {
+        "code": "320684",
+        "name": "海门",
+        "pinyin": "Haimen",
+        "label": "Haimen0513",
+        "cityCode": "3206",
+        "provinceCode": "32"
+      },
+      {
+        "code": "330481",
+        "name": "海宁",
+        "pinyin": "Haining",
+        "label": "Haining0573",
+        "cityCode": "3304",
+        "provinceCode": "33"
+      },
+      {
+        "code": "330424",
+        "name": "海盐",
+        "pinyin": "Haiyan",
+        "label": "Haiyan0573",
+        "cityCode": "3304",
+        "provinceCode": "33"
+      },
+      {
+        "code": "370687",
+        "name": "海阳",
+        "pinyin": "Haiyang",
+        "label": "Haiyang0535",
+        "cityCode": "3706",
+        "provinceCode": "37"
+      },
+      {
+        "code": "340522",
+        "name": "含山",
+        "pinyin": "Hanshan",
+        "label": "Hanshan0565",
+        "cityCode": "3405",
+        "provinceCode": "34"
+      },
+      {
+        "code": "500117",
+        "name": "合川",
+        "pinyin": "Hechuan",
+        "label": "Hechuan023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "361125",
+        "name": "横峰",
+        "pinyin": "Hengfeng",
+        "label": "Hengfeng0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "450127",
+        "name": "横县",
+        "pinyin": "Hengxian",
+        "label": "Hengxian0771",
+        "cityCode": "4501",
+        "provinceCode": "45"
+      },
+      {
+        "code": "120101",
+        "name": "和平",
+        "pinyin": "Heping",
+        "label": "Heping0762",
+        "cityCode": "1201",
+        "provinceCode": "12"
+      },
+      {
+        "code": "410602",
+        "name": "鹤山",
+        "pinyin": "Heshan",
+        "label": "Heshan0750",
+        "cityCode": "4106",
+        "provinceCode": "41"
+      },
+      {
+        "code": "340523",
+        "name": "和县",
+        "pinyin": "Hexian",
+        "label": "Hexian0565",
+        "cityCode": "3405",
+        "provinceCode": "34"
+      },
+      {
+        "code": "320813",
+        "name": "洪泽",
+        "pinyin": "Hongze",
+        "label": "Hongze0517",
+        "cityCode": "3208",
+        "provinceCode": "32"
+      },
+      {
+        "code": "350629",
+        "name": "华安",
+        "pinyin": "Huaan",
+        "label": "Huaan0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "220282",
+        "name": "桦甸",
+        "pinyin": "Huadian",
+        "label": "Huadian0423",
+        "cityCode": "2202",
+        "provinceCode": "22"
+      },
+      {
+        "code": "441224",
+        "name": "怀集",
+        "pinyin": "Huaiji",
+        "label": "Huaiji0758",
+        "cityCode": "4412",
+        "provinceCode": "44"
+      },
+      {
+        "code": "340822",
+        "name": "怀宁",
+        "pinyin": "Huaining",
+        "label": "Huaining0556",
+        "cityCode": "3408",
+        "provinceCode": "34"
+      },
+      {
+        "code": "340321",
+        "name": "怀远",
+        "pinyin": "Huaiyuan",
+        "label": "Huaiyuan0552",
+        "cityCode": "3403",
+        "provinceCode": "34"
+      },
+      {
+        "code": "370321",
+        "name": "桓台",
+        "pinyin": "Huantai",
+        "label": "Huantai0533",
+        "cityCode": "3703",
+        "provinceCode": "37"
+      },
+      {
+        "code": "440982",
+        "name": "化州",
+        "pinyin": "Huazhou",
+        "label": "Huazhou0668",
+        "cityCode": "4409",
+        "provinceCode": "44"
+      },
+      {
+        "code": "350521",
+        "name": "惠安",
+        "pinyin": "Huian",
+        "label": "Huian0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "360733",
+        "name": "会昌",
+        "pinyin": "Huichang",
+        "label": "Huichang0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "441323",
+        "name": "惠东",
+        "pinyin": "Huidong",
+        "label": "Huidong0752",
+        "cityCode": "4413",
+        "provinceCode": "44"
+      },
+      {
+        "code": "445224",
+        "name": "惠来",
+        "pinyin": "Huilai",
+        "label": "Huilai0663",
+        "cityCode": "4452",
+        "provinceCode": "44"
+      },
+      {
+        "code": "371621",
+        "name": "惠民",
+        "pinyin": "Huimin",
+        "label": "Huimin0543",
+        "cityCode": "3716",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360429",
+        "name": "湖口",
+        "pinyin": "Hukou",
+        "label": "Hukou0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "230111",
+        "name": "呼兰",
+        "pinyin": "Hulan",
+        "label": "Hulan0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "341522",
+        "name": "霍邱",
+        "pinyin": "Huoqiu",
+        "label": "Huoqiu0564",
+        "cityCode": "3415",
+        "provinceCode": "34"
+      },
+      {
+        "code": "341525",
+        "name": "霍山",
+        "pinyin": "Huoshan",
+        "label": "Huoshan0564",
+        "cityCode": "3415",
+        "provinceCode": "34"
+      },
+      {
+        "code": "610118",
+        "name": "鄠邑",
+        "pinyin": "Huxian",
+        "label": "Huxian029",
+        "cityCode": "6101",
+        "provinceCode": "61"
+      }
+    ],
+    "J": [
+      { "code": "2308", "name": "佳木斯", "pinyin": "Jiamusi", "label": "Jiamusi0454", "provinceCode": "23" },
+      { "code": "4108", "name": "焦作", "pinyin": "Jiaozuo", "label": "Jiaozuo0391", "provinceCode": "41" },
+      { "code": "3304", "name": "嘉兴", "pinyin": "Jiaxing", "label": "Jiaxing0573", "provinceCode": "33" },
+      { "code": "2202", "name": "吉林", "pinyin": "Jilin", "label": "Jilin0423", "provinceCode": "22" },
+      { "code": "3701", "name": "济南", "pinyin": "Jinan", "label": "Jinan0531", "provinceCode": "37" },
+      { "code": "4407", "name": "江门", "pinyin": "Jiangmen", "label": "Jiangmen0750", "provinceCode": "44" },
+      {
+        "code": "360821",
+        "name": "吉安",
+        "pinyin": "Jian",
+        "label": "Jian0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "620201",
+        "name": "嘉峪关",
+        "pinyin": "Jiayuguan",
+        "label": "Jiayuguan0937",
+        "cityCode": "6202",
+        "provinceCode": "62"
+      },
+      { "code": "4452", "name": "揭阳", "pinyin": "Jieyang", "label": "Jieyang0663", "provinceCode": "44" },
+      { "code": "6203", "name": "金昌", "pinyin": "Jinchang", "label": "Jinchang0935", "provinceCode": "62" },
+      { "code": "1405", "name": "晋城", "pinyin": "Jincheng", "label": "Jincheng0356", "provinceCode": "14" },
+      { "code": "3602", "name": "景德镇", "pinyin": "Jingdezhen", "label": "Jingdezhen0798", "provinceCode": "36" },
+      { "code": "4208", "name": "荆门", "pinyin": "Jingmen", "label": "Jingmen0724", "provinceCode": "42" },
+      {
+        "code": "421003",
+        "name": "荆州",
+        "pinyin": "Jingzhou",
+        "label": "Jingzhou0716",
+        "cityCode": "4210",
+        "provinceCode": "42"
+      },
+      { "code": "3307", "name": "金华", "pinyin": "Jinhua", "label": "Jinhua0579", "provinceCode": "33" },
+      { "code": "3708", "name": "济宁", "pinyin": "Jining", "label": "Jining0537", "provinceCode": "37" },
+      { "code": "1407", "name": "晋中", "pinyin": "Jinzhong", "label": "Jinzhong0354", "provinceCode": "14" },
+      { "code": "2107", "name": "锦州", "pinyin": "Jinzhou", "label": "Jinzhou0416", "provinceCode": "21" },
+      { "code": "6209", "name": "酒泉", "pinyin": "Jiuquan", "label": "Jiuquan0937", "provinceCode": "62" },
+      { "code": "2303", "name": "鸡西", "pinyin": "Jixi", "label": "Jixi0467", "provinceCode": "23" },
+      {
+        "code": "330182",
+        "name": "建德",
+        "pinyin": "Jiande",
+        "label": "Jiande0571",
+        "cityCode": "3301",
+        "provinceCode": "33"
+      },
+      {
+        "code": "321012",
+        "name": "江都",
+        "pinyin": "Jiangdu",
+        "label": "Jiangdu0514",
+        "cityCode": "3210",
+        "provinceCode": "32"
+      },
+      {
+        "code": "500116",
+        "name": "江津",
+        "pinyin": "Jiangjin",
+        "label": "Jiangjin023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "350428",
+        "name": "将乐",
+        "pinyin": "Jiangle",
+        "label": "Jiangle0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "330881",
+        "name": "江山",
+        "pinyin": "Jiangshan",
+        "label": "Jiangshan0570",
+        "cityCode": "3308",
+        "provinceCode": "33"
+      },
+      {
+        "code": "321204",
+        "name": "姜堰",
+        "pinyin": "Jiangyan",
+        "label": "Jiangyan0523",
+        "cityCode": "3212",
+        "provinceCode": "32"
+      },
+      {
+        "code": "320281",
+        "name": "江阴",
+        "pinyin": "Jiangyin",
+        "label": "Jiangyin0510",
+        "cityCode": "3202",
+        "provinceCode": "32"
+      },
+      {
+        "code": "320925",
+        "name": "建湖",
+        "pinyin": "Jianhu",
+        "label": "Jianhu0515",
+        "cityCode": "3209",
+        "provinceCode": "32"
+      },
+      {
+        "code": "350430",
+        "name": "建宁",
+        "pinyin": "Jianning",
+        "label": "Jianning0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350783",
+        "name": "建瓯",
+        "pinyin": "Jianou",
+        "label": "Jianou0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350703",
+        "name": "建阳",
+        "pinyin": "Jianyang",
+        "label": "Jianyang0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "220281",
+        "name": "蛟河",
+        "pinyin": "Jiaohe",
+        "label": "Jiaohe0423",
+        "cityCode": "2202",
+        "provinceCode": "22"
+      },
+      {
+        "code": "441427",
+        "name": "蕉岭",
+        "pinyin": "Jiaoling",
+        "label": "Jiaoling0753",
+        "cityCode": "4414",
+        "provinceCode": "44"
+      },
+      {
+        "code": "370211",
+        "name": "黄岛",
+        "pinyin": "Jiaonan",
+        "label": "Jiaonan0532",
+        "cityCode": "3702",
+        "provinceCode": "37"
+      },
+      {
+        "code": "370281",
+        "name": "胶州",
+        "pinyin": "Jiaozhou",
+        "label": "Jiaozhou0532",
+        "cityCode": "3702",
+        "provinceCode": "37"
+      },
+      {
+        "code": "330421",
+        "name": "嘉善",
+        "pinyin": "Jiashan",
+        "label": "Jiashan0573",
+        "cityCode": "3304",
+        "provinceCode": "33"
+      },
+      {
+        "code": "370829",
+        "name": "嘉祥",
+        "pinyin": "Jiaxiang",
+        "label": "Jiaxiang0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "445203",
+        "name": "揭东",
+        "pinyin": "Jiedong",
+        "label": "Jiedong0663",
+        "cityCode": "4452",
+        "provinceCode": "44"
+      },
+      {
+        "code": "341282",
+        "name": "界首",
+        "pinyin": "Jieshou",
+        "label": "Jieshou0558",
+        "cityCode": "3412",
+        "provinceCode": "34"
+      },
+      {
+        "code": "445222",
+        "name": "揭西",
+        "pinyin": "Jiexi",
+        "label": "Jiexi0663",
+        "cityCode": "4452",
+        "provinceCode": "44"
+      },
+      {
+        "code": "370215",
+        "name": "即墨",
+        "pinyin": "Jimo",
+        "label": "Jimo0532",
+        "cityCode": "3702",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360925",
+        "name": "靖安",
+        "pinyin": "Jingan",
+        "label": "Jingan0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "341825",
+        "name": "旌德",
+        "pinyin": "Jingde",
+        "label": "Jingde0563",
+        "cityCode": "3418",
+        "provinceCode": "34"
+      },
+      {
+        "code": "360881",
+        "name": "井冈山",
+        "pinyin": "Jinggangshan",
+        "label": "Jinggangshan0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "321282",
+        "name": "靖江",
+        "pinyin": "Jingjiang",
+        "label": "Jingjiang0523",
+        "cityCode": "3212",
+        "provinceCode": "32"
+      },
+      { "code": "0578", "name": "景宁", "pinyin": "Jingning", "label": "Jingning0578" },
+      {
+        "code": "341823",
+        "name": "泾县",
+        "pinyin": "Jingxian",
+        "label": "Jingxian0563",
+        "cityCode": "3418",
+        "provinceCode": "34"
+      },
+      {
+        "code": "130121",
+        "name": "井陉",
+        "pinyin": "Jingxing",
+        "label": "Jingxing0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "320831",
+        "name": "金湖",
+        "pinyin": "Jinhu",
+        "label": "Jinhu0517",
+        "cityCode": "3208",
+        "provinceCode": "32"
+      },
+      {
+        "code": "350582",
+        "name": "晋江",
+        "pinyin": "Jinjiang",
+        "label": "Jinjiang0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350527",
+        "name": "金门",
+        "pinyin": "Jinmen",
+        "label": "Jinmen0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "530115",
+        "name": "晋宁",
+        "pinyin": "Jinning",
+        "label": "Jinning0871",
+        "cityCode": "5301",
+        "provinceCode": "53"
+      },
+      {
+        "code": "320413",
+        "name": "金坛",
+        "pinyin": "Jintan",
+        "label": "Jintan0519",
+        "cityCode": "3204",
+        "provinceCode": "32"
+      },
+      {
+        "code": "510121",
+        "name": "金堂",
+        "pinyin": "Jintang",
+        "label": "Jintang028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "360124",
+        "name": "进贤",
+        "pinyin": "Jinxian",
+        "label": "Jinxian0791",
+        "cityCode": "3601",
+        "provinceCode": "36"
+      },
+      {
+        "code": "361027",
+        "name": "金溪",
+        "pinyin": "Jinxi",
+        "label": "Jinxi0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "370828",
+        "name": "金乡",
+        "pinyin": "Jinxiang",
+        "label": "Jinxiang0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "331122",
+        "name": "缙云",
+        "pinyin": "Jinyun",
+        "label": "Jinyun0578",
+        "cityCode": "3311",
+        "provinceCode": "33"
+      },
+      {
+        "code": "341524",
+        "name": "金寨",
+        "pinyin": "Jinzhai",
+        "label": "Jinzhai0564",
+        "cityCode": "3415",
+        "provinceCode": "34"
+      },
+      {
+        "code": "130183",
+        "name": "晋州",
+        "pinyin": "Jinzhou",
+        "label": "Jinzhou0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "360822",
+        "name": "吉水",
+        "pinyin": "Jishui",
+        "label": "Jishui0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      { "code": "3604", "name": "九江", "pinyin": "Jiujiang", "label": "Jiujiang0792", "provinceCode": "36" },
+      {
+        "code": "220113",
+        "name": "九台",
+        "pinyin": "Jiutai",
+        "label": "Jiutai0431",
+        "cityCode": "2201",
+        "provinceCode": "22"
+      },
+      {
+        "code": "341824",
+        "name": "绩溪",
+        "pinyin": "Jixi",
+        "label": "Jixi0563",
+        "cityCode": "3418",
+        "provinceCode": "34"
+      },
+      {
+        "code": "370115",
+        "name": "济阳",
+        "pinyin": "Jiyang",
+        "label": "Jiyang0531",
+        "cityCode": "3701",
+        "provinceCode": "37"
+      },
+      {
+        "code": "419001",
+        "name": "济源",
+        "pinyin": "Jiyuan",
+        "label": "Jiyuan0391",
+        "cityCode": "4190",
+        "provinceCode": "41"
+      },
+      {
+        "code": "371726",
+        "name": "鄄城",
+        "pinyin": "Juancheng",
+        "label": "Juancheng0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371327",
+        "name": "莒南",
+        "pinyin": "Junan",
+        "label": "Junan0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      {
+        "code": "321183",
+        "name": "句容",
+        "pinyin": "Jurong",
+        "label": "Jurong0511",
+        "cityCode": "3211",
+        "provinceCode": "32"
+      },
+      {
+        "code": "371122",
+        "name": "莒县",
+        "pinyin": "Juxian",
+        "label": "Juxian0633",
+        "cityCode": "3711",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371724",
+        "name": "巨野",
+        "pinyin": "Juye",
+        "label": "Juye0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      }
+    ],
+    "K": [
+      { "code": "4102", "name": "开封", "pinyin": "Kaifeng", "label": "Kaifeng0378", "provinceCode": "41" },
+      { "code": "5301", "name": "昆明", "pinyin": "Kunming", "label": "Kunming0871", "provinceCode": "53" },
+      {
+        "code": "653101",
+        "name": "喀什地区",
+        "pinyin": "Kashidi",
+        "label": "Kashidi0998",
+        "cityCode": "6531",
+        "provinceCode": "65"
+      },
+      {
+        "code": "650203",
+        "name": "克拉玛依",
+        "pinyin": "Kelamayi",
+        "label": "Kelamayi0990",
+        "cityCode": "6502",
+        "provinceCode": "65"
+      },
+      { "code": "0908", "name": "克孜勒", "pinyin": "Kezile", "label": "Kezile0908" },
+      {
+        "code": "330824",
+        "name": "开化",
+        "pinyin": "Kaihua",
+        "label": "Kaihua0570",
+        "cityCode": "3308",
+        "provinceCode": "33"
+      },
+      {
+        "code": "130205",
+        "name": "开平",
+        "pinyin": "Kaiping",
+        "label": "Kaiping0750",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      },
+      {
+        "code": "500154",
+        "name": "开州",
+        "pinyin": "Kaixian",
+        "label": "Kaixian023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "520121",
+        "name": "开阳",
+        "pinyin": "Kaiyang",
+        "label": "Kaiyang0851",
+        "cityCode": "5201",
+        "provinceCode": "52"
+      },
+      {
+        "code": "210123",
+        "name": "康平",
+        "pinyin": "Kangping",
+        "label": "Kangping024",
+        "cityCode": "2101",
+        "provinceCode": "21"
+      },
+      {
+        "code": "370505",
+        "name": "垦利",
+        "pinyin": "Kenli",
+        "label": "Kenli0546",
+        "cityCode": "3705",
+        "provinceCode": "37"
+      },
+      {
+        "code": "320583",
+        "name": "昆山",
+        "pinyin": "Kunshan",
+        "label": "Kunshan0512",
+        "cityCode": "3205",
+        "provinceCode": "32"
+      }
+    ],
+    "L": [
+      { "code": "4513", "name": "来宾", "pinyin": "Laibin", "label": "Laibin0772", "provinceCode": "45" },
+      { "code": "6201", "name": "兰州", "pinyin": "Lanzhou", "label": "Lanzhou0931", "provinceCode": "62" },
+      { "code": "4502", "name": "柳州", "pinyin": "Liuzhou", "label": "Liuzhou0772", "provinceCode": "45" },
+      { "code": "4103", "name": "洛阳", "pinyin": "Luoyang", "label": "Luoyang0379", "provinceCode": "41" },
+      {
+        "code": "370116",
+        "name": "莱芜",
+        "pinyin": "Laiwu",
+        "label": "Laiwu0634",
+        "cityCode": "3701",
+        "provinceCode": "37"
+      },
+      { "code": "1310", "name": "廊坊", "pinyin": "Langfang", "label": "Langfang0316", "provinceCode": "13" },
+      { "code": "5401", "name": "拉萨", "pinyin": "Lasa", "label": "Lasa0891", "provinceCode": "54" },
+      { "code": "5111", "name": "乐山", "pinyin": "Leshan", "label": "Leshan0833", "provinceCode": "51" },
+      { "code": "0834", "name": "凉山", "pinyin": "Liangshan", "label": "Liangshan0834" },
+      { "code": "3207", "name": "连云港", "pinyin": "Lianyungang", "label": "Lianyungang0518", "provinceCode": "32" },
+      { "code": "3715", "name": "聊城", "pinyin": "Liaocheng", "label": "Liaocheng0635", "provinceCode": "37" },
+      {
+        "code": "211021",
+        "name": "辽阳",
+        "pinyin": "Liaoyang",
+        "label": "Liaoyang0419",
+        "cityCode": "2110",
+        "provinceCode": "21"
+      },
+      { "code": "2204", "name": "辽源", "pinyin": "Liaoyuan", "label": "Liaoyuan0437", "provinceCode": "22" },
+      { "code": "5307", "name": "丽江", "pinyin": "Lijiang", "label": "Lijiang0888", "provinceCode": "53" },
+      { "code": "5309", "name": "临沧", "pinyin": "Lincang", "label": "Lincang0883", "provinceCode": "53" },
+      { "code": "1410", "name": "临汾", "pinyin": "Linfen", "label": "Linfen0357", "provinceCode": "14" },
+      {
+        "code": "622901",
+        "name": "临夏",
+        "pinyin": "Linxia",
+        "label": "Linxia0930",
+        "cityCode": "6229",
+        "provinceCode": "62"
+      },
+      { "code": "3713", "name": "临沂", "pinyin": "Linyi", "label": "Linyi0539", "provinceCode": "37" },
+      { "code": "5404", "name": "林芝", "pinyin": "Linzhi", "label": "Linzhi0894", "provinceCode": "54" },
+      { "code": "3311", "name": "丽水", "pinyin": "Lishui", "label": "Lishui0578", "provinceCode": "33" },
+      { "code": "3415", "name": "六安", "pinyin": "Liuan", "label": "Liuan0564", "provinceCode": "34" },
+      { "code": "5202", "name": "六盘水", "pinyin": "Liupanshui", "label": "Liupanshui0858", "provinceCode": "52" },
+      { "code": "6212", "name": "陇南", "pinyin": "Longnan", "label": "Longnan0939", "provinceCode": "62" },
+      { "code": "3508", "name": "龙岩", "pinyin": "Longyan", "label": "Longyan0597", "provinceCode": "35" },
+      { "code": "4313", "name": "娄底", "pinyin": "Loudi", "label": "Loudi0738", "provinceCode": "43" },
+      { "code": "4111", "name": "漯河", "pinyin": "Luohe", "label": "Luohe0395", "provinceCode": "41" },
+      { "code": "5105", "name": "泸州", "pinyin": "Luzhou", "label": "Luzhou0830", "provinceCode": "51" },
+      { "code": "1411", "name": "吕梁", "pinyin": "Lvliang", "label": "Lvliang0358", "provinceCode": "14" },
+      {
+        "code": "341122",
+        "name": "来安",
+        "pinyin": "Laian",
+        "label": "Laian0550",
+        "cityCode": "3411",
+        "provinceCode": "34"
+      },
+      {
+        "code": "370285",
+        "name": "莱西",
+        "pinyin": "Laixi",
+        "label": "Laixi0532",
+        "cityCode": "3702",
+        "provinceCode": "37"
+      },
+      {
+        "code": "370682",
+        "name": "莱阳",
+        "pinyin": "Laiyang",
+        "label": "Laiyang0535",
+        "cityCode": "3706",
+        "provinceCode": "37"
+      },
+      {
+        "code": "370683",
+        "name": "莱州",
+        "pinyin": "Laizhou",
+        "label": "Laizhou0535",
+        "cityCode": "3706",
+        "provinceCode": "37"
+      },
+      {
+        "code": "341821",
+        "name": "郎溪",
+        "pinyin": "Langxi",
+        "label": "Langxi0563",
+        "cityCode": "3418",
+        "provinceCode": "34"
+      },
+      {
+        "code": "610122",
+        "name": "蓝田",
+        "pinyin": "Lantian",
+        "label": "Lantian029",
+        "cityCode": "6101",
+        "provinceCode": "61"
+      },
+      {
+        "code": "330781",
+        "name": "兰溪",
+        "pinyin": "Lanxi",
+        "label": "Lanxi0579",
+        "cityCode": "3307",
+        "provinceCode": "33"
+      },
+      {
+        "code": "361025",
+        "name": "乐安",
+        "pinyin": "Lean",
+        "label": "Lean0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "440281",
+        "name": "乐昌",
+        "pinyin": "Lechang",
+        "label": "Lechang0751",
+        "cityCode": "4402",
+        "provinceCode": "44"
+      },
+      {
+        "code": "440882",
+        "name": "雷州",
+        "pinyin": "Leizhou",
+        "label": "Leizhou0759",
+        "cityCode": "4408",
+        "provinceCode": "44"
+      },
+      {
+        "code": "371481",
+        "name": "乐陵",
+        "pinyin": "Leling",
+        "label": "Leling0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360281",
+        "name": "乐平",
+        "pinyin": "Leping",
+        "label": "Leping0798",
+        "cityCode": "3602",
+        "provinceCode": "36"
+      },
+      {
+        "code": "330382",
+        "name": "乐清",
+        "pinyin": "Leqing",
+        "label": "Leqing0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      {
+        "code": "130225",
+        "name": "乐亭",
+        "pinyin": "Leting",
+        "label": "Leting0315",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      },
+      {
+        "code": "350825",
+        "name": "连城",
+        "pinyin": "Liancheng",
+        "label": "Liancheng0597",
+        "cityCode": "3508",
+        "provinceCode": "35"
+      },
+      {
+        "code": "500155",
+        "name": "梁平",
+        "pinyin": "Liangping",
+        "label": "Liangping023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "370832",
+        "name": "梁山",
+        "pinyin": "Liangshan",
+        "label": "Liangshan0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360321",
+        "name": "莲花",
+        "pinyin": "Lianhua",
+        "label": "Lianhua0799",
+        "cityCode": "3603",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350122",
+        "name": "连江",
+        "pinyin": "Lianjiang",
+        "label": "Lianjiang0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "440881",
+        "name": "廉江",
+        "pinyin": "Lianjiang",
+        "label": "Lianjiang0759",
+        "cityCode": "4408",
+        "provinceCode": "44"
+      },
+      { "code": "0763", "name": "连南", "pinyin": "Liannan", "label": "Liannan0763" },
+      {
+        "code": "441623",
+        "name": "连平",
+        "pinyin": "Lianping",
+        "label": "Lianping0762",
+        "cityCode": "4416",
+        "provinceCode": "44"
+      },
+      {
+        "code": "211402",
+        "name": "连山",
+        "pinyin": "Lianshan",
+        "label": "Lianshan0763",
+        "cityCode": "2114",
+        "provinceCode": "21"
+      },
+      {
+        "code": "320826",
+        "name": "涟水",
+        "pinyin": "Lianshui",
+        "label": "Lianshui0517",
+        "cityCode": "3208",
+        "provinceCode": "32"
+      },
+      {
+        "code": "441882",
+        "name": "连州",
+        "pinyin": "Lianzhou",
+        "label": "Lianzhou0763",
+        "cityCode": "4418",
+        "provinceCode": "44"
+      },
+      {
+        "code": "210115",
+        "name": "辽中",
+        "pinyin": "Liaozhong",
+        "label": "Liaozhong024",
+        "cityCode": "2101",
+        "provinceCode": "21"
+      },
+      {
+        "code": "361022",
+        "name": "黎川",
+        "pinyin": "Lichuan",
+        "label": "Lichuan0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "370522",
+        "name": "利津",
+        "pinyin": "Lijin",
+        "label": "Lijin0546",
+        "cityCode": "3705",
+        "provinceCode": "37"
+      },
+      {
+        "code": "330112",
+        "name": "临安",
+        "pinyin": "Linan",
+        "label": "Linan0571",
+        "cityCode": "3301",
+        "provinceCode": "33"
+      },
+      {
+        "code": "341323",
+        "name": "灵璧",
+        "pinyin": "Lingbi",
+        "label": "Lingbi0557",
+        "cityCode": "3413",
+        "provinceCode": "34"
+      },
+      {
+        "code": "130126",
+        "name": "灵寿",
+        "pinyin": "Lingshou",
+        "label": "Lingshou0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "371403",
+        "name": "陵城",
+        "pinyin": "Lingxian",
+        "label": "Lingxian0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "331082",
+        "name": "临海",
+        "pinyin": "Linhai",
+        "label": "Linhai0576",
+        "cityCode": "3310",
+        "provinceCode": "33"
+      },
+      {
+        "code": "371581",
+        "name": "临清",
+        "pinyin": "Linqing",
+        "label": "Linqing0635",
+        "cityCode": "3715",
+        "provinceCode": "37"
+      },
+      {
+        "code": "341221",
+        "name": "临泉",
+        "pinyin": "Linquan",
+        "label": "Linquan0558",
+        "cityCode": "3412",
+        "provinceCode": "34"
+      },
+      {
+        "code": "370724",
+        "name": "临朐",
+        "pinyin": "Linqu",
+        "label": "Linqu0536",
+        "cityCode": "3707",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371329",
+        "name": "临沭",
+        "pinyin": "Linshu",
+        "label": "Linshu0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371424",
+        "name": "临邑",
+        "pinyin": "Linyi",
+        "label": "Linyi0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "320117",
+        "name": "溧水",
+        "pinyin": "Lishui",
+        "label": "Lishui025",
+        "cityCode": "3201",
+        "provinceCode": "32"
+      },
+      {
+        "code": "450222",
+        "name": "柳城",
+        "pinyin": "Liucheng",
+        "label": "Liucheng0772",
+        "cityCode": "4502",
+        "provinceCode": "45"
+      },
+      {
+        "code": "450206",
+        "name": "柳江",
+        "pinyin": "Liujiang",
+        "label": "Liujiang0772",
+        "cityCode": "4502",
+        "provinceCode": "45"
+      },
+      {
+        "code": "430181",
+        "name": "浏阳",
+        "pinyin": "Liuyang",
+        "label": "Liuyang0731",
+        "cityCode": "4301",
+        "provinceCode": "43"
+      },
+      {
+        "code": "341623",
+        "name": "利辛",
+        "pinyin": "Lixin",
+        "label": "Lixin0558",
+        "cityCode": "3416",
+        "provinceCode": "34"
+      },
+      {
+        "code": "320481",
+        "name": "溧阳",
+        "pinyin": "Liyang",
+        "label": "Liyang0519",
+        "cityCode": "3204",
+        "provinceCode": "32"
+      },
+      {
+        "code": "450123",
+        "name": "隆安",
+        "pinyin": "Longan",
+        "label": "Longan0771",
+        "cityCode": "4501",
+        "provinceCode": "45"
+      },
+      {
+        "code": "441622",
+        "name": "龙川",
+        "pinyin": "Longchuan",
+        "label": "Longchuan0762",
+        "cityCode": "4416",
+        "provinceCode": "44"
+      },
+      {
+        "code": "350681",
+        "name": "龙海",
+        "pinyin": "Longhai",
+        "label": "Longhai0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "370681",
+        "name": "龙口",
+        "pinyin": "Longkou",
+        "label": "Longkou0535",
+        "cityCode": "3706",
+        "provinceCode": "37"
+      },
+      {
+        "code": "441324",
+        "name": "龙门",
+        "pinyin": "Longmen",
+        "label": "Longmen0752",
+        "cityCode": "4413",
+        "provinceCode": "44"
+      },
+      {
+        "code": "360727",
+        "name": "龙南",
+        "pinyin": "Longnan",
+        "label": "Longnan0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "331181",
+        "name": "龙泉",
+        "pinyin": "Longquan",
+        "label": "Longquan0578",
+        "cityCode": "3311",
+        "provinceCode": "33"
+      },
+      {
+        "code": "330825",
+        "name": "龙游",
+        "pinyin": "Longyou",
+        "label": "Longyou0570",
+        "cityCode": "3308",
+        "provinceCode": "33"
+      },
+      {
+        "code": "130111",
+        "name": "栾城",
+        "pinyin": "Luancheng",
+        "label": "Luancheng0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "410324",
+        "name": "栾川",
+        "pinyin": "Luanchuan",
+        "label": "Luanchuan0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "130224",
+        "name": "滦南",
+        "pinyin": "Luannan",
+        "label": "Luannan0315",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      },
+      {
+        "code": "130284",
+        "name": "滦州",
+        "pinyin": "Luanxian",
+        "label": "Luanxian0315",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      },
+      {
+        "code": "441581",
+        "name": "陆丰",
+        "pinyin": "Lufeng",
+        "label": "Lufeng0660",
+        "cityCode": "4415",
+        "provinceCode": "44"
+      },
+      {
+        "code": "441523",
+        "name": "陆河",
+        "pinyin": "Luhe",
+        "label": "Luhe0660",
+        "cityCode": "4415",
+        "provinceCode": "44"
+      },
+      {
+        "code": "340124",
+        "name": "庐江",
+        "pinyin": "Lujiang",
+        "label": "Lujiang0565",
+        "cityCode": "3401",
+        "provinceCode": "34"
+      },
+      {
+        "code": "445381",
+        "name": "罗定",
+        "pinyin": "Luoding",
+        "label": "Luoding0766",
+        "cityCode": "4453",
+        "provinceCode": "44"
+      },
+      {
+        "code": "410328",
+        "name": "洛宁",
+        "pinyin": "Luoning",
+        "label": "Luoning0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "350123",
+        "name": "罗源",
+        "pinyin": "Luoyuan",
+        "label": "Luoyuan0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "130110",
+        "name": "鹿泉",
+        "pinyin": "Luquan",
+        "label": "Luquan0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      { "code": "0871", "name": "禄劝", "pinyin": "Luquan", "label": "Luquan0871" },
+      {
+        "code": "360323",
+        "name": "芦溪",
+        "pinyin": "Luxi",
+        "label": "Luxi0799",
+        "cityCode": "3603",
+        "provinceCode": "36"
+      },
+      {
+        "code": "450223",
+        "name": "鹿寨",
+        "pinyin": "Luzhai",
+        "label": "Luzhai0772",
+        "cityCode": "4502",
+        "provinceCode": "45"
+      }
+    ],
+    "M": [
+      { "code": "3405", "name": "马鞍山", "pinyin": "Maanshan", "label": "Maanshan0555", "provinceCode": "34" },
+      { "code": "4409", "name": "茂名", "pinyin": "Maoming", "label": "Maoming0668", "provinceCode": "44" },
+      { "code": "5114", "name": "眉山", "pinyin": "Meishan", "label": "Meishan028", "provinceCode": "51" },
+      { "code": "4414", "name": "梅州", "pinyin": "Meizhou", "label": "Meizhou0753", "provinceCode": "44" },
+      { "code": "5107", "name": "绵阳", "pinyin": "Mianyang", "label": "Mianyang0816", "provinceCode": "51" },
+      { "code": "2310", "name": "牡丹江", "pinyin": "Mudanjiang", "label": "Mudanjiang0453", "provinceCode": "23" },
+      {
+        "code": "450124",
+        "name": "马山",
+        "pinyin": "Mashan",
+        "label": "Mashan0771",
+        "cityCode": "4501",
+        "provinceCode": "45"
+      },
+      {
+        "code": "441403",
+        "name": "梅县",
+        "pinyin": "Meixian",
+        "label": "Meixian0753",
+        "cityCode": "4414",
+        "provinceCode": "44"
+      },
+      {
+        "code": "341622",
+        "name": "蒙城",
+        "pinyin": "Mengcheng",
+        "label": "Mengcheng0558",
+        "cityCode": "3416",
+        "provinceCode": "34"
+      },
+      {
+        "code": "410322",
+        "name": "孟津",
+        "pinyin": "Mengjin",
+        "label": "Mengjin0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "371328",
+        "name": "蒙阴",
+        "pinyin": "Mengyin",
+        "label": "Mengyin0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      {
+        "code": "410883",
+        "name": "孟州",
+        "pinyin": "Mengzhou",
+        "label": "Mengzhou0391",
+        "cityCode": "4108",
+        "provinceCode": "41"
+      },
+      {
+        "code": "341182",
+        "name": "明光",
+        "pinyin": "Mingguang",
+        "label": "Mingguang0550",
+        "cityCode": "3411",
+        "provinceCode": "34"
+      },
+      {
+        "code": "350421",
+        "name": "明溪",
+        "pinyin": "Mingxi",
+        "label": "Mingxi0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350121",
+        "name": "闽侯",
+        "pinyin": "Minhou",
+        "label": "Minhou0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350124",
+        "name": "闽清",
+        "pinyin": "Minqing",
+        "label": "Minqing0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "230127",
+        "name": "木兰",
+        "pinyin": "Mulan",
+        "label": "Mulan0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      }
+    ],
+    "N": [
+      { "code": "5113", "name": "南充", "pinyin": "Nanchong", "label": "Nanchong0817", "provinceCode": "51" },
+      {
+        "code": "360121",
+        "name": "南昌",
+        "pinyin": "Nanchang",
+        "label": "Nanchang0791",
+        "cityCode": "3601",
+        "provinceCode": "36"
+      },
+      { "code": "3201", "name": "南京", "pinyin": "Nanjing", "label": "Nanjing025", "provinceCode": "32" },
+      { "code": "4501", "name": "南宁", "pinyin": "Nanning", "label": "Nanning0771", "provinceCode": "45" },
+      { "code": "3206", "name": "南通", "pinyin": "Nantong", "label": "Nantong0513", "provinceCode": "32" },
+      { "code": "3302", "name": "宁波", "pinyin": "Ningbo", "label": "Ningbo0574", "provinceCode": "33" },
+      { "code": "3507", "name": "南平", "pinyin": "Nanping", "label": "Nanping0599", "provinceCode": "35" },
+      { "code": "4113", "name": "南阳", "pinyin": "Nanyang", "label": "Nanyang0377", "provinceCode": "41" },
+      { "code": "5406", "name": "那曲", "pinyin": "Naqu", "label": "Naqu0896", "provinceCode": "54" },
+      { "code": "5110", "name": "内江", "pinyin": "Neijiang", "label": "Neijiang0832", "provinceCode": "51" },
+      { "code": "3509", "name": "宁德", "pinyin": "Ningde", "label": "Ningde0593", "provinceCode": "35" },
+      { "code": "0886", "name": "怒江", "pinyin": "Nujiang", "label": "Nujiang0886" },
+      {
+        "code": "350583",
+        "name": "南安",
+        "pinyin": "Nanan",
+        "label": "Nanan0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "440523",
+        "name": "南澳",
+        "pinyin": "Nanao",
+        "label": "Nanao0754",
+        "cityCode": "4405",
+        "provinceCode": "44"
+      },
+      {
+        "code": "361021",
+        "name": "南城",
+        "pinyin": "Nancheng",
+        "label": "Nancheng0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "500119",
+        "name": "南川",
+        "pinyin": "Nanchuan",
+        "label": "Nanchuan023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "361023",
+        "name": "南丰",
+        "pinyin": "Nanfeng",
+        "label": "Nanfeng0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350627",
+        "name": "南靖",
+        "pinyin": "Nanjing",
+        "label": "Nanjing0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "360703",
+        "name": "南康",
+        "pinyin": "Nankang",
+        "label": "Nankang0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "340223",
+        "name": "南陵",
+        "pinyin": "Nanling",
+        "label": "Nanling0553",
+        "cityCode": "3402",
+        "provinceCode": "34"
+      },
+      {
+        "code": "440282",
+        "name": "南雄",
+        "pinyin": "Nanxiong",
+        "label": "Nanxiong0751",
+        "cityCode": "4402",
+        "provinceCode": "44"
+      },
+      {
+        "code": "360730",
+        "name": "宁都",
+        "pinyin": "Ningdu",
+        "label": "Ningdu0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "341881",
+        "name": "宁国",
+        "pinyin": "Ningguo",
+        "label": "Ningguo0563",
+        "cityCode": "3418",
+        "provinceCode": "34"
+      },
+      {
+        "code": "330226",
+        "name": "宁海",
+        "pinyin": "Ninghai",
+        "label": "Ninghai0574",
+        "cityCode": "3302",
+        "provinceCode": "33"
+      },
+      {
+        "code": "350424",
+        "name": "宁化",
+        "pinyin": "Ninghua",
+        "label": "Ninghua0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "371422",
+        "name": "宁津",
+        "pinyin": "Ningjin",
+        "label": "Ningjin0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "430182",
+        "name": "宁乡",
+        "pinyin": "Ningxiang",
+        "label": "Ningxiang0731",
+        "cityCode": "4301",
+        "provinceCode": "43"
+      },
+      {
+        "code": "370921",
+        "name": "宁阳",
+        "pinyin": "Ningyang",
+        "label": "Ningyang0538",
+        "cityCode": "3709",
+        "provinceCode": "37"
+      },
+      {
+        "code": "220122",
+        "name": "农安",
+        "pinyin": "Nongan",
+        "label": "Nongan0431",
+        "cityCode": "2201",
+        "provinceCode": "22"
+      }
+    ],
+    "P": [
+      { "code": "2111", "name": "盘锦", "pinyin": "Panjin", "label": "Panjin0427", "provinceCode": "21" },
+      { "code": "5104", "name": "攀枝花", "pinyin": "Panzhihua", "label": "Panzhihua0812", "provinceCode": "51" },
+      { "code": "4104", "name": "平顶山", "pinyin": "Pingdingshan", "label": "Pingdingshan0375", "provinceCode": "41" },
+      { "code": "6208", "name": "平凉", "pinyin": "Pingliang", "label": "Pingliang0933", "provinceCode": "62" },
+      { "code": "3603", "name": "萍乡", "pinyin": "Pingxiang", "label": "Pingxiang0799", "provinceCode": "36" },
+      { "code": "5308", "name": "普洱", "pinyin": "Puer", "label": "Puer0879", "provinceCode": "53" },
+      { "code": "3503", "name": "莆田", "pinyin": "Putian", "label": "Putian0594", "provinceCode": "35" },
+      {
+        "code": "410928",
+        "name": "濮阳",
+        "pinyin": "Puyang",
+        "label": "Puyang0393",
+        "cityCode": "4109",
+        "provinceCode": "41"
+      },
+      {
+        "code": "330727",
+        "name": "磐安",
+        "pinyin": "Panan",
+        "label": "Panan0579",
+        "cityCode": "3307",
+        "provinceCode": "33"
+      },
+      {
+        "code": "220284",
+        "name": "磐石",
+        "pinyin": "Panshi",
+        "label": "Panshi0423",
+        "cityCode": "2202",
+        "provinceCode": "22"
+      },
+      {
+        "code": "320322",
+        "name": "沛县",
+        "pinyin": "Peixian",
+        "label": "Peixian0516",
+        "cityCode": "3203",
+        "provinceCode": "32"
+      },
+      {
+        "code": "370684",
+        "name": "蓬莱",
+        "pinyin": "Penglai",
+        "label": "Penglai0535",
+        "cityCode": "3706",
+        "provinceCode": "37"
+      },
+      { "code": "023", "name": "彭水", "pinyin": "Pengshui", "label": "Pengshui023" },
+      {
+        "code": "360430",
+        "name": "彭泽",
+        "pinyin": "Pengze",
+        "label": "Pengze0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "510182",
+        "name": "彭州",
+        "pinyin": "Pengzhou",
+        "label": "Pengzhou028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "370283",
+        "name": "平度",
+        "pinyin": "Pingdu",
+        "label": "Pingdu0532",
+        "cityCode": "3702",
+        "provinceCode": "37"
+      },
+      {
+        "code": "350628",
+        "name": "平和",
+        "pinyin": "Pinghe",
+        "label": "Pinghe0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "330482",
+        "name": "平湖",
+        "pinyin": "Pinghu",
+        "label": "Pinghu0573",
+        "cityCode": "3304",
+        "provinceCode": "33"
+      },
+      {
+        "code": "350923",
+        "name": "屏南",
+        "pinyin": "Pingnan",
+        "label": "Pingnan0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "130131",
+        "name": "平山",
+        "pinyin": "Pingshan",
+        "label": "Pingshan0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "350128",
+        "name": "平潭",
+        "pinyin": "Pingtan",
+        "label": "Pingtan0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "330326",
+        "name": "平阳",
+        "pinyin": "Pingyang",
+        "label": "Pingyang0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      {
+        "code": "370124",
+        "name": "平阴",
+        "pinyin": "Pingyin",
+        "label": "Pingyin0531",
+        "cityCode": "3701",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371326",
+        "name": "平邑",
+        "pinyin": "Pingyi",
+        "label": "Pingyi0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371426",
+        "name": "平原",
+        "pinyin": "Pingyuan",
+        "label": "Pingyuan0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "441426",
+        "name": "平远",
+        "pinyin": "Pingyuan",
+        "label": "Pingyuan0753",
+        "cityCode": "4414",
+        "provinceCode": "44"
+      },
+      {
+        "code": "510117",
+        "name": "郫都",
+        "pinyin": "Pixian",
+        "label": "Pixian028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "320382",
+        "name": "邳州",
+        "pinyin": "Pizhou",
+        "label": "Pizhou0516",
+        "cityCode": "3203",
+        "provinceCode": "32"
+      },
+      {
+        "code": "361128",
+        "name": "鄱阳",
+        "pinyin": "Poyang",
+        "label": "Poyang0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350722",
+        "name": "浦城",
+        "pinyin": "Pucheng",
+        "label": "Pucheng0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "330726",
+        "name": "浦江",
+        "pinyin": "Pujiang",
+        "label": "Pujiang0579",
+        "cityCode": "3307",
+        "provinceCode": "33"
+      },
+      {
+        "code": "510131",
+        "name": "蒲江",
+        "pinyin": "Pujiang",
+        "label": "Pujiang028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "210214",
+        "name": "普兰店",
+        "pinyin": "Pulandian",
+        "label": "Pulandian0411",
+        "cityCode": "2102",
+        "provinceCode": "21"
+      },
+      {
+        "code": "445281",
+        "name": "普宁",
+        "pinyin": "Puning",
+        "label": "Puning0663",
+        "cityCode": "4452",
+        "provinceCode": "44"
+      }
+    ],
+    "Q": [
+      { "code": "0855", "name": "黔东", "pinyin": "Qiandong", "label": "Qiandong0855" },
+      { "code": "3702", "name": "青岛", "pinyin": "Qingdao", "label": "Qingdao0532", "provinceCode": "37" },
+      { "code": "3505", "name": "泉州", "pinyin": "Quanzhou", "label": "Quanzhou0595", "provinceCode": "35" },
+      { "code": "0854", "name": "黔南", "pinyin": "Qiannan", "label": "Qiannan0854" },
+      { "code": "0859", "name": "黔西南", "pinyin": "Qianxinan", "label": "Qianxinan0859" },
+      { "code": "6210", "name": "庆阳", "pinyin": "Qingyang", "label": "Qingyang0934", "provinceCode": "62" },
+      { "code": "4418", "name": "清远", "pinyin": "Qingyuan", "label": "Qingyuan0763", "provinceCode": "44" },
+      { "code": "1303", "name": "秦皇岛", "pinyin": "Qinhuangdao", "label": "Qinhuangdao0335", "provinceCode": "13" },
+      { "code": "4507", "name": "钦州", "pinyin": "Qinzhou", "label": "Qinzhou0777", "provinceCode": "45" },
+      { "code": "2302", "name": "齐齐哈尔", "pinyin": "Qiqihaer", "label": "Qiqihaer0452", "provinceCode": "23" },
+      { "code": "2309", "name": "七台河", "pinyin": "Qitaihe", "label": "Qitaihe0464", "provinceCode": "23" },
+      { "code": "5303", "name": "曲靖", "pinyin": "Qujing", "label": "Qujing0874", "provinceCode": "53" },
+      { "code": "3308", "name": "衢州", "pinyin": "Quzhou", "label": "Quzhou0570", "provinceCode": "33" },
+      {
+        "code": "130283",
+        "name": "迁安",
+        "pinyin": "Qianan",
+        "label": "Qianan0315",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      },
+      {
+        "code": "340882",
+        "name": "潜山",
+        "pinyin": "Qianshan",
+        "label": "Qianshan0556",
+        "cityCode": "3408",
+        "provinceCode": "34"
+      },
+      {
+        "code": "361124",
+        "name": "铅山",
+        "pinyin": "Qianshan",
+        "label": "Qianshan0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "130227",
+        "name": "迁西",
+        "pinyin": "Qianxi",
+        "label": "Qianxi0315",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      },
+      {
+        "code": "320681",
+        "name": "启东",
+        "pinyin": "Qidong",
+        "label": "Qidong0513",
+        "cityCode": "3206",
+        "provinceCode": "32"
+      },
+      {
+        "code": "371425",
+        "name": "齐河",
+        "pinyin": "Qihe",
+        "label": "Qihe0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "500110",
+        "name": "綦江",
+        "pinyin": "Qijiang",
+        "label": "Qijiang023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "341024",
+        "name": "祁门",
+        "pinyin": "Qimen",
+        "label": "Qimen0559",
+        "cityCode": "3410",
+        "provinceCode": "34"
+      },
+      {
+        "code": "350423",
+        "name": "清流",
+        "pinyin": "Qingliu",
+        "label": "Qingliu0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "331121",
+        "name": "青田",
+        "pinyin": "Qingtian",
+        "label": "Qingtian0578",
+        "cityCode": "3311",
+        "provinceCode": "33"
+      },
+      {
+        "code": "441803",
+        "name": "清新",
+        "pinyin": "Qingxin",
+        "label": "Qingxin0763",
+        "cityCode": "4418",
+        "provinceCode": "44"
+      },
+      {
+        "code": "341723",
+        "name": "青阳",
+        "pinyin": "Qingyang",
+        "label": "Qingyang0566",
+        "cityCode": "3417",
+        "provinceCode": "34"
+      },
+      {
+        "code": "331126",
+        "name": "庆元",
+        "pinyin": "Qingyuan",
+        "label": "Qingyuan0578",
+        "cityCode": "3311",
+        "provinceCode": "33"
+      },
+      {
+        "code": "371423",
+        "name": "庆云",
+        "pinyin": "Qingyun",
+        "label": "Qingyun0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "520181",
+        "name": "清镇",
+        "pinyin": "Qingzhen",
+        "label": "Qingzhen0851",
+        "cityCode": "5201",
+        "provinceCode": "52"
+      },
+      {
+        "code": "370781",
+        "name": "青州",
+        "pinyin": "Qingzhou",
+        "label": "Qingzhou0536",
+        "cityCode": "3707",
+        "provinceCode": "37"
+      },
+      {
+        "code": "410882",
+        "name": "沁阳",
+        "pinyin": "Qinyang",
+        "label": "Qinyang0391",
+        "cityCode": "4108",
+        "provinceCode": "41"
+      },
+      {
+        "code": "510183",
+        "name": "邛崃",
+        "pinyin": "Qionglai",
+        "label": "Qionglai028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "320113",
+        "name": "栖霞",
+        "pinyin": "Qixia",
+        "label": "Qixia0535",
+        "cityCode": "3201",
+        "provinceCode": "32"
+      },
+      {
+        "code": "341124",
+        "name": "全椒",
+        "pinyin": "Quanjiao",
+        "label": "Quanjiao0550",
+        "cityCode": "3411",
+        "provinceCode": "34"
+      },
+      {
+        "code": "360729",
+        "name": "全南",
+        "pinyin": "Quannan",
+        "label": "Quannan0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "370881",
+        "name": "曲阜",
+        "pinyin": "Qufu",
+        "label": "Qufu0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "440205",
+        "name": "曲江",
+        "pinyin": "Qujiang",
+        "label": "Qujiang0751",
+        "cityCode": "4402",
+        "provinceCode": "44"
+      }
+    ],
+    "R": [
+      { "code": "5402", "name": "日喀则", "pinyin": "Rikaze", "label": "Rikaze0892", "provinceCode": "54" },
+      { "code": "3711", "name": "日照", "pinyin": "Rizhao", "label": "Rizhao0633", "provinceCode": "37" },
+      {
+        "code": "445122",
+        "name": "饶平",
+        "pinyin": "Raoping",
+        "label": "Raoping0768",
+        "cityCode": "4451",
+        "provinceCode": "44"
+      },
+      {
+        "code": "440224",
+        "name": "仁化",
+        "pinyin": "Renhua",
+        "label": "Renhua0751",
+        "cityCode": "4402",
+        "provinceCode": "44"
+      },
+      {
+        "code": "450224",
+        "name": "融安",
+        "pinyin": "Rongan",
+        "label": "Rongan0772",
+        "cityCode": "4502",
+        "provinceCode": "45"
+      },
+      {
+        "code": "500153",
+        "name": "荣昌",
+        "pinyin": "Rongchang",
+        "label": "Rongchang023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "371082",
+        "name": "荣成",
+        "pinyin": "Rongcheng",
+        "label": "Rongcheng0631",
+        "cityCode": "3710",
+        "provinceCode": "37"
+      },
+      { "code": "0772", "name": "融水", "pinyin": "Rongshui", "label": "Rongshui0772" },
+      {
+        "code": "320623",
+        "name": "如东",
+        "pinyin": "Rudong",
+        "label": "Rudong0513",
+        "cityCode": "3206",
+        "provinceCode": "32"
+      },
+      {
+        "code": "320682",
+        "name": "如皋",
+        "pinyin": "Rugao",
+        "label": "Rugao0513",
+        "cityCode": "3206",
+        "provinceCode": "32"
+      },
+      {
+        "code": "330381",
+        "name": "瑞安",
+        "pinyin": "Ruian",
+        "label": "Ruian0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      {
+        "code": "360481",
+        "name": "瑞昌",
+        "pinyin": "Ruichang",
+        "label": "Ruichang0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "360781",
+        "name": "瑞金",
+        "pinyin": "Ruijin",
+        "label": "Ruijin0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "371083",
+        "name": "乳山",
+        "pinyin": "Rushan",
+        "label": "Rushan0631",
+        "cityCode": "3710",
+        "provinceCode": "37"
+      },
+      {
+        "code": "410326",
+        "name": "汝阳",
+        "pinyin": "Ruyang",
+        "label": "Ruyang0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      { "code": "0751", "name": "乳源", "pinyin": "Ruyuan", "label": "Ruyuan0751" }
+    ],
+    "S": [
+      { "code": "4112", "name": "三门峡", "pinyin": "Sanmenxia", "label": "Sanmenxia0398", "provinceCode": "41" },
+      { "code": "31", "name": "上海", "pinyin": "Shanghai", "label": "Shanghai021" },
+      { "code": "2101", "name": "沈阳", "pinyin": "Shenyang", "label": "Shenyang024", "provinceCode": "21" },
+      { "code": "4403", "name": "深圳", "pinyin": "Shenzhen", "label": "Shenzhen0755", "provinceCode": "44" },
+      { "code": "1301", "name": "石家庄", "pinyin": "Shijiazhuang", "label": "Shijiazhuang0311", "provinceCode": "13" },
+      { "code": "3205", "name": "苏州", "pinyin": "Suzhou", "label": "Suzhou0512", "provinceCode": "32" },
+      { "code": "3504", "name": "三明", "pinyin": "Sanming", "label": "Sanming0598", "provinceCode": "35" },
+      { "code": "4602", "name": "三亚", "pinyin": "Sanya", "label": "Sanya0899", "provinceCode": "46" },
+      { "code": "6110", "name": "商洛", "pinyin": "Shangluo", "label": "Shangluo0914", "provinceCode": "61" },
+      { "code": "4114", "name": "商丘", "pinyin": "Shangqiu", "label": "Shangqiu0370", "provinceCode": "41" },
+      { "code": "3611", "name": "上饶", "pinyin": "Shangrao", "label": "Shangrao0793", "provinceCode": "36" },
+      { "code": "5405", "name": "山南", "pinyin": "Shannan", "label": "Shannan0893", "provinceCode": "54" },
+      { "code": "4405", "name": "汕头", "pinyin": "Shantou", "label": "Shantou0754", "provinceCode": "44" },
+      { "code": "4415", "name": "汕尾", "pinyin": "Shanwei", "label": "Shanwei0660", "provinceCode": "44" },
+      { "code": "4402", "name": "韶关", "pinyin": "Shaoguan", "label": "Shaoguan0751", "provinceCode": "44" },
+      {
+        "code": "430523",
+        "name": "邵阳",
+        "pinyin": "Shaoyang",
+        "label": "Shaoyang0739",
+        "cityCode": "4305",
+        "provinceCode": "43"
+      },
+      { "code": "4203", "name": "十堰", "pinyin": "Shiyan", "label": "Shiyan0719", "provinceCode": "42" },
+      { "code": "6402", "name": "石嘴山", "pinyin": "Shizuishan", "label": "Shizuishan0952", "provinceCode": "64" },
+      { "code": "2305", "name": "双鸭山", "pinyin": "Shuangyashan", "label": "Shuangyashan0469", "provinceCode": "23" },
+      { "code": "1406", "name": "朔州", "pinyin": "Shuozhou", "label": "Shuozhou0349", "provinceCode": "14" },
+      { "code": "2203", "name": "四平", "pinyin": "Siping", "label": "Siping0434", "provinceCode": "22" },
+      { "code": "2207", "name": "松原", "pinyin": "Songyuan", "label": "Songyuan0438", "provinceCode": "22" },
+      { "code": "2312", "name": "绥化", "pinyin": "Suihua", "label": "Suihua0455", "provinceCode": "23" },
+      { "code": "5109", "name": "遂宁", "pinyin": "Suining", "label": "Suining0825", "provinceCode": "51" },
+      { "code": "4213", "name": "随州", "pinyin": "Suizhou", "label": "Suizhou0722", "provinceCode": "42" },
+      { "code": "3213", "name": "宿迁", "pinyin": "Suqian", "label": "Suqian0527", "provinceCode": "32" },
+      { "code": "3413", "name": "宿州", "pinyin": "Suzhou", "label": "Suzhou0557", "provinceCode": "34" },
+      { "code": "0772", "name": "三江", "pinyin": "Sanjiang", "label": "Sanjiang0772" },
+      {
+        "code": "331022",
+        "name": "三门",
+        "pinyin": "Sanmen",
+        "label": "Sanmen0576",
+        "cityCode": "3310",
+        "provinceCode": "33"
+      },
+      {
+        "code": "350624",
+        "name": "诏安",
+        "pinyin": "Saoan",
+        "label": "Saoan0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "360923",
+        "name": "上高",
+        "pinyin": "Shanggao",
+        "label": "Shanggao0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350823",
+        "name": "上杭",
+        "pinyin": "Shanghang",
+        "label": "Shanghang0597",
+        "cityCode": "3508",
+        "provinceCode": "35"
+      },
+      {
+        "code": "370126",
+        "name": "商河",
+        "pinyin": "Shanghe",
+        "label": "Shanghe0531",
+        "cityCode": "3701",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360322",
+        "name": "上栗",
+        "pinyin": "Shangli",
+        "label": "Shangli0799",
+        "cityCode": "3603",
+        "provinceCode": "36"
+      },
+      {
+        "code": "450125",
+        "name": "上林",
+        "pinyin": "Shanglin",
+        "label": "Shanglin0771",
+        "cityCode": "4501",
+        "provinceCode": "45"
+      },
+      {
+        "code": "360724",
+        "name": "上犹",
+        "pinyin": "Shangyou",
+        "label": "Shangyou0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "330604",
+        "name": "上虞",
+        "pinyin": "Shangyu",
+        "label": "Shangyu0575",
+        "cityCode": "3306",
+        "provinceCode": "33"
+      },
+      {
+        "code": "230183",
+        "name": "尚志",
+        "pinyin": "Shangzhi",
+        "label": "Shangzhi0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "350781",
+        "name": "邵武",
+        "pinyin": "Shaowu",
+        "label": "Shaowu0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      { "code": "3306", "name": "绍兴", "pinyin": "Shaoxing", "label": "Shaoxing0575", "provinceCode": "33" },
+      {
+        "code": "350427",
+        "name": "沙县",
+        "pinyin": "Shaxian",
+        "label": "Shaxian0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "330922",
+        "name": "嵊泗",
+        "pinyin": "Shengsi",
+        "label": "Shengsi0580",
+        "cityCode": "3309",
+        "provinceCode": "33"
+      },
+      {
+        "code": "330683",
+        "name": "嵊州",
+        "pinyin": "Shengzhou",
+        "label": "Shengzhou0575",
+        "cityCode": "3306",
+        "provinceCode": "33"
+      },
+      {
+        "code": "371522",
+        "name": "莘县",
+        "pinyin": "Shenxian",
+        "label": "Shenxian0635",
+        "cityCode": "3715",
+        "provinceCode": "37"
+      },
+      {
+        "code": "130128",
+        "name": "深泽",
+        "pinyin": "Shenze",
+        "label": "Shenze0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "341021",
+        "name": "歙县",
+        "pinyin": "Shexian",
+        "label": "Shexian0559",
+        "cityCode": "3410",
+        "provinceCode": "34"
+      },
+      {
+        "code": "320924",
+        "name": "射阳",
+        "pinyin": "Sheyang",
+        "label": "Sheyang0515",
+        "cityCode": "3209",
+        "provinceCode": "32"
+      },
+      {
+        "code": "360735",
+        "name": "石城",
+        "pinyin": "Shicheng",
+        "label": "Shicheng0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      { "code": "0871", "name": "石林", "pinyin": "Shilin", "label": "Shilin0871" },
+      {
+        "code": "350581",
+        "name": "石狮",
+        "pinyin": "Shishi",
+        "label": "Shishi0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "341722",
+        "name": "石台",
+        "pinyin": "Shitai",
+        "label": "Shitai0566",
+        "cityCode": "3417",
+        "provinceCode": "34"
+      },
+      {
+        "code": "440222",
+        "name": "始兴",
+        "pinyin": "Shixing",
+        "label": "Shixing0751",
+        "cityCode": "4402",
+        "provinceCode": "44"
+      },
+      { "code": "023", "name": "石柱", "pinyin": "Shizhu", "label": "Shizhu023" },
+      {
+        "code": "370783",
+        "name": "寿光",
+        "pinyin": "Shouguang",
+        "label": "Shouguang0536",
+        "cityCode": "3707",
+        "provinceCode": "37"
+      },
+      {
+        "code": "350924",
+        "name": "寿宁",
+        "pinyin": "Shouning",
+        "label": "Shouning0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "340422",
+        "name": "寿县",
+        "pinyin": "Shouxian",
+        "label": "Shouxian0564",
+        "cityCode": "3404",
+        "provinceCode": "34"
+      },
+      {
+        "code": "230113",
+        "name": "双城",
+        "pinyin": "Shuangcheng",
+        "label": "Shuangcheng0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "510116",
+        "name": "双流",
+        "pinyin": "Shuangliu",
+        "label": "Shuangliu028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "341523",
+        "name": "舒城",
+        "pinyin": "Shucheng",
+        "label": "Shucheng0564",
+        "cityCode": "3415",
+        "provinceCode": "34"
+      },
+      {
+        "code": "220283",
+        "name": "舒兰",
+        "pinyin": "Shulan",
+        "label": "Shulan0423",
+        "cityCode": "2202",
+        "provinceCode": "22"
+      },
+      {
+        "code": "350721",
+        "name": "顺昌",
+        "pinyin": "Shunchang",
+        "label": "Shunchang0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "321322",
+        "name": "沭阳",
+        "pinyin": "Shuyang",
+        "label": "Shuyang0527",
+        "cityCode": "3213",
+        "provinceCode": "32"
+      },
+      {
+        "code": "321324",
+        "name": "泗洪",
+        "pinyin": "Sihong",
+        "label": "Sihong0527",
+        "cityCode": "3213",
+        "provinceCode": "32"
+      },
+      {
+        "code": "441284",
+        "name": "四会",
+        "pinyin": "Sihui",
+        "label": "Sihui0758",
+        "cityCode": "4412",
+        "provinceCode": "44"
+      },
+      {
+        "code": "370831",
+        "name": "泗水",
+        "pinyin": "Sishui",
+        "label": "Sishui0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "341324",
+        "name": "泗县",
+        "pinyin": "Sixian",
+        "label": "Sixian0557",
+        "cityCode": "3413",
+        "provinceCode": "34"
+      },
+      {
+        "code": "321323",
+        "name": "泗阳",
+        "pinyin": "Siyang",
+        "label": "Siyang0527",
+        "cityCode": "3213",
+        "provinceCode": "32"
+      },
+      {
+        "code": "530127",
+        "name": "嵩明",
+        "pinyin": "Songming",
+        "label": "Songming0871",
+        "cityCode": "5301",
+        "provinceCode": "53"
+      },
+      {
+        "code": "350724",
+        "name": "松溪",
+        "pinyin": "Songxi",
+        "label": "Songxi0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "410325",
+        "name": "嵩县",
+        "pinyin": "Songxian",
+        "label": "Songxian0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "331124",
+        "name": "松阳",
+        "pinyin": "Songyang",
+        "label": "Songyang0578",
+        "cityCode": "3311",
+        "provinceCode": "33"
+      },
+      {
+        "code": "331123",
+        "name": "遂昌",
+        "pinyin": "Suichang",
+        "label": "Suichang0578",
+        "cityCode": "3311",
+        "provinceCode": "33"
+      },
+      {
+        "code": "360827",
+        "name": "遂川",
+        "pinyin": "Suichuan",
+        "label": "Suichuan0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "320324",
+        "name": "睢宁",
+        "pinyin": "Suining",
+        "label": "Suining0516",
+        "cityCode": "3203",
+        "provinceCode": "32"
+      },
+      {
+        "code": "340621",
+        "name": "濉溪",
+        "pinyin": "Suixi",
+        "label": "Suixi0561",
+        "cityCode": "3406",
+        "provinceCode": "34"
+      },
+      {
+        "code": "440823",
+        "name": "遂溪",
+        "pinyin": "Suixi",
+        "label": "Suixi0759",
+        "cityCode": "4408",
+        "provinceCode": "44"
+      },
+      {
+        "code": "340826",
+        "name": "宿松",
+        "pinyin": "Susong",
+        "label": "Susong0556",
+        "cityCode": "3408",
+        "provinceCode": "34"
+      },
+      {
+        "code": "321311",
+        "name": "宿豫",
+        "pinyin": "Suyu",
+        "label": "Suyu0527",
+        "cityCode": "3213",
+        "provinceCode": "32"
+      }
+    ],
+    "T": [
+      {
+        "code": "654201",
+        "name": "塔城地区",
+        "pinyin": "Tachengdi",
+        "label": "Tachengdi0901",
+        "cityCode": "6542",
+        "provinceCode": "65"
+      },
+      { "code": "12", "name": "天津", "pinyin": "Tianjin", "label": "Tianjin022" },
+      { "code": "3310", "name": "台州", "pinyin": "Taizhou", "label": "Taizhou0576", "provinceCode": "33" },
+      { "code": "1302", "name": "唐山", "pinyin": "Tangshan", "label": "Tangshan0315", "provinceCode": "13" },
+      { "code": "3709", "name": "泰安", "pinyin": "Taian", "label": "Taian0538", "provinceCode": "37" },
+      { "code": "1401", "name": "太原", "pinyin": "Taiyuan", "label": "Taiyuan0351", "provinceCode": "14" },
+      { "code": "3212", "name": "泰州", "pinyin": "Taizhou", "label": "Taizhou0523", "provinceCode": "32" },
+      { "code": "6205", "name": "天水", "pinyin": "Tianshui", "label": "Tianshui0938", "provinceCode": "62" },
+      {
+        "code": "211221",
+        "name": "铁岭",
+        "pinyin": "Tieling",
+        "label": "Tieling0410",
+        "cityCode": "2112",
+        "provinceCode": "21"
+      },
+      { "code": "6102", "name": "铜川", "pinyin": "Tongchuan", "label": "Tongchuan0919", "provinceCode": "61" },
+      {
+        "code": "220521",
+        "name": "通化",
+        "pinyin": "Tonghua",
+        "label": "Tonghua0435",
+        "cityCode": "2205",
+        "provinceCode": "22"
+      },
+      { "code": "1505", "name": "通辽", "pinyin": "Tongliao", "label": "Tongliao0475", "provinceCode": "15" },
+      { "code": "3407", "name": "铜陵", "pinyin": "Tongling", "label": "Tongling0562", "provinceCode": "34" },
+      { "code": "5206", "name": "铜仁", "pinyin": "Tongren", "label": "Tongren0856", "provinceCode": "52" },
+      { "code": "6504", "name": "吐鲁番", "pinyin": "Tulufan", "label": "Tulufan0995", "provinceCode": "65" },
+      {
+        "code": "320585",
+        "name": "太仓",
+        "pinyin": "Taicang",
+        "label": "Taicang0512",
+        "cityCode": "3205",
+        "provinceCode": "32"
+      },
+      {
+        "code": "210711",
+        "name": "太和",
+        "pinyin": "Taihe",
+        "label": "Taihe0558",
+        "cityCode": "2107",
+        "provinceCode": "21"
+      },
+      {
+        "code": "360826",
+        "name": "泰和",
+        "pinyin": "Taihe",
+        "label": "Taihe0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "340825",
+        "name": "太湖",
+        "pinyin": "Taihu",
+        "label": "Taihu0556",
+        "cityCode": "3408",
+        "provinceCode": "34"
+      },
+      {
+        "code": "350429",
+        "name": "泰宁",
+        "pinyin": "Taining",
+        "label": "Taining0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "440781",
+        "name": "台山",
+        "pinyin": "Taishan",
+        "label": "Taishan0750",
+        "cityCode": "4407",
+        "provinceCode": "44"
+      },
+      {
+        "code": "330329",
+        "name": "泰顺",
+        "pinyin": "Taishun",
+        "label": "Taishun0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      {
+        "code": "321283",
+        "name": "泰兴",
+        "pinyin": "Taixing",
+        "label": "Taixing0523",
+        "cityCode": "3212",
+        "provinceCode": "32"
+      },
+      {
+        "code": "371322",
+        "name": "郯城",
+        "pinyin": "Tancheng",
+        "label": "Tancheng0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      { "code": "0315", "name": "唐海", "pinyin": "Tanghai", "label": "Tanghai0315" },
+      {
+        "code": "370481",
+        "name": "滕州",
+        "pinyin": "Tengzhou",
+        "label": "Tengzhou0623",
+        "cityCode": "3704",
+        "provinceCode": "37"
+      },
+      {
+        "code": "341181",
+        "name": "天长",
+        "pinyin": "Tianchang",
+        "label": "Tianchang0550",
+        "cityCode": "3411",
+        "provinceCode": "34"
+      },
+      {
+        "code": "331023",
+        "name": "天台",
+        "pinyin": "Tiantai",
+        "label": "Tiantai0576",
+        "cityCode": "3310",
+        "provinceCode": "33"
+      },
+      {
+        "code": "340881",
+        "name": "桐城",
+        "pinyin": "Tongcheng",
+        "label": "Tongcheng0556",
+        "cityCode": "3408",
+        "provinceCode": "34"
+      },
+      {
+        "code": "360926",
+        "name": "铜鼓",
+        "pinyin": "Tonggu",
+        "label": "Tonggu0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "230128",
+        "name": "通河",
+        "pinyin": "Tonghe",
+        "label": "Tonghe0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "500151",
+        "name": "铜梁",
+        "pinyin": "Tongliang",
+        "label": "Tongliang023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "330122",
+        "name": "桐庐",
+        "pinyin": "Tonglu",
+        "label": "Tonglu0571",
+        "cityCode": "3301",
+        "provinceCode": "33"
+      },
+      {
+        "code": "500152",
+        "name": "潼南",
+        "pinyin": "Tongnan",
+        "label": "Tongnan023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "320312",
+        "name": "铜山",
+        "pinyin": "Tongshan",
+        "label": "Tongshan0516",
+        "cityCode": "3203",
+        "provinceCode": "32"
+      },
+      {
+        "code": "330483",
+        "name": "桐乡",
+        "pinyin": "Tongxiang",
+        "label": "Tongxiang0573",
+        "cityCode": "3304",
+        "provinceCode": "33"
+      },
+      {
+        "code": "110112",
+        "name": "通州",
+        "pinyin": "Tongzhou",
+        "label": "Tongzhou0513",
+        "cityCode": "1101",
+        "provinceCode": "11"
+      }
+    ],
+    "W": [
+      { "code": "6105", "name": "渭南", "pinyin": "Weinan", "label": "Weinan0913", "provinceCode": "61" },
+      { "code": "3707", "name": "潍坊", "pinyin": "Weifang", "label": "Weifang0536", "provinceCode": "37" },
+      { "code": "3710", "name": "威海", "pinyin": "Weihai", "label": "Weihai0631", "provinceCode": "37" },
+      { "code": "4201", "name": "武汉", "pinyin": "Wuhan", "label": "Wuhan027", "provinceCode": "42" },
+      { "code": "3202", "name": "无锡", "pinyin": "Wuxi", "label": "Wuxi0510", "provinceCode": "32" },
+      {
+        "code": "532601",
+        "name": "文山",
+        "pinyin": "Wenshan",
+        "label": "Wenshan0876",
+        "cityCode": "5326",
+        "provinceCode": "53"
+      },
+      { "code": "3303", "name": "温州", "pinyin": "Wenzhou", "label": "Wenzhou0577", "provinceCode": "33" },
+      { "code": "1503", "name": "乌海", "pinyin": "Wuhai", "label": "Wuhai0473", "provinceCode": "15" },
+      {
+        "code": "340221",
+        "name": "芜湖",
+        "pinyin": "Wuhu",
+        "label": "Wuhu0553",
+        "cityCode": "3402",
+        "provinceCode": "34"
+      },
+      { "code": "1509", "name": "乌兰察布", "pinyin": "Wulanchabu", "label": "Wulanchabu0474", "provinceCode": "15" },
+      {
+        "code": "650121",
+        "name": "乌鲁木齐",
+        "pinyin": "Wulumuqi",
+        "label": "Wulumuqi0991",
+        "cityCode": "6501",
+        "provinceCode": "65"
+      },
+      { "code": "6206", "name": "武威", "pinyin": "Wuwei", "label": "Wuwei0935", "provinceCode": "62" },
+      { "code": "6403", "name": "吴忠", "pinyin": "Wuzhong", "label": "Wuzhong0953", "provinceCode": "64" },
+      { "code": "4504", "name": "梧州", "pinyin": "Wuzhou", "label": "Wuzhou0774", "provinceCode": "45" },
+      {
+        "code": "210281",
+        "name": "瓦房店",
+        "pinyin": "Wafangdian",
+        "label": "Wafangdian0411",
+        "cityCode": "2102",
+        "provinceCode": "21"
+      },
+      {
+        "code": "360828",
+        "name": "万安",
+        "pinyin": "Wanan",
+        "label": "Wanan0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "430112",
+        "name": "望城",
+        "pinyin": "Wangcheng",
+        "label": "Wangcheng0731",
+        "cityCode": "4301",
+        "provinceCode": "43"
+      },
+      {
+        "code": "340827",
+        "name": "望江",
+        "pinyin": "Wangjiang",
+        "label": "Wangjiang0556",
+        "cityCode": "3408",
+        "provinceCode": "34"
+      },
+      {
+        "code": "361129",
+        "name": "万年",
+        "pinyin": "Wannian",
+        "label": "Wannian0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "360922",
+        "name": "万载",
+        "pinyin": "Wanzai",
+        "label": "Wanzai0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "370826",
+        "name": "微山",
+        "pinyin": "Weishan",
+        "label": "Weishan0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "330328",
+        "name": "文成",
+        "pinyin": "Wencheng",
+        "label": "Wencheng0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      {
+        "code": "371003",
+        "name": "文登",
+        "pinyin": "Wendeng",
+        "label": "Wendeng0631",
+        "cityCode": "3710",
+        "provinceCode": "37"
+      },
+      {
+        "code": "440229",
+        "name": "翁源",
+        "pinyin": "Wengyuan",
+        "label": "Wengyuan0751",
+        "cityCode": "4402",
+        "provinceCode": "44"
+      },
+      {
+        "code": "331081",
+        "name": "温岭",
+        "pinyin": "Wenling",
+        "label": "Wenling0576",
+        "cityCode": "3310",
+        "provinceCode": "33"
+      },
+      {
+        "code": "370830",
+        "name": "汶上",
+        "pinyin": "Wenshang",
+        "label": "Wenshang0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "410825",
+        "name": "温县",
+        "pinyin": "Wenxian",
+        "label": "Wenxian0391",
+        "cityCode": "4108",
+        "provinceCode": "41"
+      },
+      {
+        "code": "341621",
+        "name": "涡阳",
+        "pinyin": "Woyang",
+        "label": "Woyang0558",
+        "cityCode": "3416",
+        "provinceCode": "34"
+      },
+      {
+        "code": "230184",
+        "name": "五常",
+        "pinyin": "Wuchang",
+        "label": "Wuchang0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "371428",
+        "name": "武城",
+        "pinyin": "Wucheng",
+        "label": "Wucheng0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "440883",
+        "name": "吴川",
+        "pinyin": "Wuchuan",
+        "label": "Wuchuan0759",
+        "cityCode": "4408",
+        "provinceCode": "44"
+      },
+      {
+        "code": "371623",
+        "name": "无棣",
+        "pinyin": "Wudi",
+        "label": "Wudi0543",
+        "cityCode": "3716",
+        "provinceCode": "37"
+      },
+      {
+        "code": "340322",
+        "name": "五河",
+        "pinyin": "Wuhe",
+        "label": "Wuhe0552",
+        "cityCode": "3403",
+        "provinceCode": "34"
+      },
+      {
+        "code": "441424",
+        "name": "五华",
+        "pinyin": "Wuhua",
+        "label": "Wuhua0753",
+        "cityCode": "4414",
+        "provinceCode": "44"
+      },
+      {
+        "code": "130130",
+        "name": "无极",
+        "pinyin": "Wuji",
+        "label": "Wuji0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "320509",
+        "name": "吴江",
+        "pinyin": "Wujiang",
+        "label": "Wujiang0512",
+        "cityCode": "3205",
+        "provinceCode": "32"
+      },
+      {
+        "code": "371121",
+        "name": "五莲",
+        "pinyin": "Wulian",
+        "label": "Wulian0633",
+        "cityCode": "3711",
+        "provinceCode": "37"
+      },
+      {
+        "code": "500156",
+        "name": "武隆",
+        "pinyin": "Wulong",
+        "label": "Wulong023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "450110",
+        "name": "武鸣",
+        "pinyin": "Wuming",
+        "label": "Wuming0771",
+        "cityCode": "4501",
+        "provinceCode": "45"
+      },
+      {
+        "code": "360423",
+        "name": "武宁",
+        "pinyin": "Wuning",
+        "label": "Wuning0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350824",
+        "name": "武平",
+        "pinyin": "Wuping",
+        "label": "Wuping0597",
+        "cityCode": "3508",
+        "provinceCode": "35"
+      },
+      {
+        "code": "500237",
+        "name": "巫山",
+        "pinyin": "Wushan",
+        "label": "Wushan023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "340225",
+        "name": "无为",
+        "pinyin": "Wuwei",
+        "label": "Wuwei0565",
+        "cityCode": "3402",
+        "provinceCode": "34"
+      },
+      {
+        "code": "500238",
+        "name": "巫溪",
+        "pinyin": "Wuxi",
+        "label": "Wuxi023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "330723",
+        "name": "武义",
+        "pinyin": "Wuyi",
+        "label": "Wuyi0579",
+        "cityCode": "3307",
+        "provinceCode": "33"
+      },
+      {
+        "code": "350782",
+        "name": "武夷山",
+        "pinyin": "Wuyishan",
+        "label": "Wuyishan0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "361130",
+        "name": "婺源",
+        "pinyin": "Wuyuan",
+        "label": "Wuyuan0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "410823",
+        "name": "武陟",
+        "pinyin": "Wuzhi",
+        "label": "Wuzhi0391",
+        "cityCode": "4108",
+        "provinceCode": "41"
+      }
+    ],
+    "X": [
+      { "code": "0710", "name": "襄樊", "pinyin": "Xiangfan", "label": "Xiangfan0710" },
+      { "code": "3502", "name": "厦门", "pinyin": "Xiamen", "label": "Xiamen0592", "provinceCode": "35" },
+      {
+        "code": "220403",
+        "name": "西安",
+        "pinyin": "Xian",
+        "label": "Xian029",
+        "cityCode": "2204",
+        "provinceCode": "22"
+      },
+      { "code": "4110", "name": "许昌", "pinyin": "Xuchang", "label": "Xuchang0374", "provinceCode": "41" },
+      { "code": "3203", "name": "徐州", "pinyin": "Xuzhou", "label": "Xuzhou0516", "provinceCode": "32" },
+      {
+        "code": "430321",
+        "name": "湘潭",
+        "pinyin": "Xiangtan",
+        "label": "Xiangtan0732",
+        "cityCode": "4303",
+        "provinceCode": "43"
+      },
+      { "code": "0743", "name": "湘西", "pinyin": "Xiangxi", "label": "Xiangxi0743" },
+      { "code": "4212", "name": "咸宁", "pinyin": "Xianning", "label": "Xianning0715", "provinceCode": "42" },
+      { "code": "6104", "name": "咸阳", "pinyin": "Xianyang", "label": "Xianyang029", "provinceCode": "61" },
+      { "code": "4209", "name": "孝感", "pinyin": "Xiaogan", "label": "Xiaogan0712", "provinceCode": "42" },
+      {
+        "code": "1525",
+        "name": "锡林郭勒盟",
+        "pinyin": "Xilinguolemeng",
+        "label": "Xilinguolemeng0479",
+        "provinceCode": "15"
+      },
+      { "code": "1522", "name": "兴安盟", "pinyin": "Xinganmeng", "label": "Xinganmeng0482", "provinceCode": "15" },
+      {
+        "code": "130521",
+        "name": "邢台",
+        "pinyin": "Xingtai",
+        "label": "Xingtai0319",
+        "cityCode": "1305",
+        "provinceCode": "13"
+      },
+      { "code": "6301", "name": "西宁", "pinyin": "Xining", "label": "Xining0971", "provinceCode": "63" },
+      {
+        "code": "410721",
+        "name": "新乡",
+        "pinyin": "Xinxiang",
+        "label": "Xinxiang0373",
+        "cityCode": "4107",
+        "provinceCode": "41"
+      },
+      { "code": "4115", "name": "信阳", "pinyin": "Xinyang", "label": "Xinyang0376", "provinceCode": "41" },
+      { "code": "3605", "name": "新余", "pinyin": "Xinyu", "label": "Xinyu0790", "provinceCode": "36" },
+      { "code": "1409", "name": "忻州", "pinyin": "Xinzhou", "label": "Xinzhou0350", "provinceCode": "14" },
+      { "code": "0691", "name": "西双版纳", "pinyin": "Xishuangbanna", "label": "Xishuangbanna0691" },
+      { "code": "3418", "name": "宣城", "pinyin": "Xuancheng", "label": "Xuancheng0563", "provinceCode": "34" },
+      {
+        "code": "360823",
+        "name": "峡江",
+        "pinyin": "Xiajiang",
+        "label": "Xiajiang0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "371427",
+        "name": "夏津",
+        "pinyin": "Xiajin",
+        "label": "Xiajin0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "330225",
+        "name": "象山",
+        "pinyin": "Xiangshan",
+        "label": "Xiangshan0574",
+        "cityCode": "3302",
+        "provinceCode": "33"
+      },
+      {
+        "code": "320921",
+        "name": "响水",
+        "pinyin": "Xiangshui",
+        "label": "Xiangshui0515",
+        "cityCode": "3209",
+        "provinceCode": "32"
+      },
+      {
+        "code": "331024",
+        "name": "仙居",
+        "pinyin": "Xianju",
+        "label": "Xianju0576",
+        "cityCode": "3310",
+        "provinceCode": "33"
+      },
+      {
+        "code": "350322",
+        "name": "仙游",
+        "pinyin": "Xianyou",
+        "label": "Xianyou0594",
+        "cityCode": "3503",
+        "provinceCode": "35"
+      },
+      {
+        "code": "341322",
+        "name": "萧县",
+        "pinyin": "Xiaoxian",
+        "label": "Xiaoxian0557",
+        "cityCode": "3413",
+        "provinceCode": "34"
+      },
+      {
+        "code": "350921",
+        "name": "霞浦",
+        "pinyin": "Xiapu",
+        "label": "Xiapu0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "520122",
+        "name": "息烽",
+        "pinyin": "Xifeng",
+        "label": "Xifeng0851",
+        "cityCode": "5201",
+        "provinceCode": "52"
+      },
+      {
+        "code": "410323",
+        "name": "新安",
+        "pinyin": "Xinan",
+        "label": "Xinan0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "330624",
+        "name": "新昌",
+        "pinyin": "Xinchang",
+        "label": "Xinchang0575",
+        "cityCode": "3306",
+        "provinceCode": "33"
+      },
+      {
+        "code": "360722",
+        "name": "信丰",
+        "pinyin": "Xinfeng",
+        "label": "Xinfeng0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "440233",
+        "name": "新丰",
+        "pinyin": "Xinfeng",
+        "label": "Xinfeng0751",
+        "cityCode": "4402",
+        "provinceCode": "44"
+      },
+      {
+        "code": "360824",
+        "name": "新干",
+        "pinyin": "Xingan",
+        "label": "Xingan0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "360732",
+        "name": "兴国",
+        "pinyin": "Xingguo",
+        "label": "Xingguo0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "321281",
+        "name": "兴化",
+        "pinyin": "Xinghua",
+        "label": "Xinghua0523",
+        "cityCode": "3212",
+        "provinceCode": "32"
+      },
+      {
+        "code": "441481",
+        "name": "兴宁",
+        "pinyin": "Xingning",
+        "label": "Xingning0753",
+        "cityCode": "4414",
+        "provinceCode": "44"
+      },
+      {
+        "code": "130125",
+        "name": "行唐",
+        "pinyin": "Xingtang",
+        "label": "Xingtang0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "410182",
+        "name": "荥阳",
+        "pinyin": "Xingyang",
+        "label": "Xingyang0371",
+        "cityCode": "4101",
+        "provinceCode": "41"
+      },
+      {
+        "code": "360483",
+        "name": "庐山",
+        "pinyin": "Xingzi",
+        "label": "Xingzi0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "130181",
+        "name": "辛集",
+        "pinyin": "Xinji",
+        "label": "Xinji0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "360112",
+        "name": "新建",
+        "pinyin": "Xinjian",
+        "label": "Xinjian0791",
+        "cityCode": "3601",
+        "provinceCode": "36"
+      },
+      {
+        "code": "510132",
+        "name": "新津",
+        "pinyin": "Xinjin",
+        "label": "Xinjin028",
+        "cityCode": "5101",
+        "provinceCode": "51"
+      },
+      {
+        "code": "130184",
+        "name": "新乐",
+        "pinyin": "Xinle",
+        "label": "Xinle0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "210181",
+        "name": "新民",
+        "pinyin": "Xinmin",
+        "label": "Xinmin024",
+        "cityCode": "2101",
+        "provinceCode": "21"
+      },
+      {
+        "code": "410183",
+        "name": "新密",
+        "pinyin": "Xinmi",
+        "label": "Xinmi0371",
+        "cityCode": "4101",
+        "provinceCode": "41"
+      },
+      {
+        "code": "370982",
+        "name": "新泰",
+        "pinyin": "Xintai",
+        "label": "Xintai0538",
+        "cityCode": "3709",
+        "provinceCode": "37"
+      },
+      {
+        "code": "230902",
+        "name": "新兴",
+        "pinyin": "Xinxing",
+        "label": "Xinxing0766",
+        "cityCode": "2309",
+        "provinceCode": "23"
+      },
+      {
+        "code": "320381",
+        "name": "新沂",
+        "pinyin": "Xinyi",
+        "label": "Xinyi0516",
+        "cityCode": "3203",
+        "provinceCode": "32"
+      },
+      {
+        "code": "440983",
+        "name": "信宜",
+        "pinyin": "Xinyi",
+        "label": "Xinyi0668",
+        "cityCode": "4409",
+        "provinceCode": "44"
+      },
+      {
+        "code": "410184",
+        "name": "新郑",
+        "pinyin": "Xinzheng",
+        "label": "Xinzheng0371",
+        "cityCode": "4101",
+        "provinceCode": "41"
+      },
+      {
+        "code": "341022",
+        "name": "休宁",
+        "pinyin": "Xiuning",
+        "label": "Xiuning0559",
+        "cityCode": "3410",
+        "provinceCode": "34"
+      },
+      { "code": "023", "name": "秀山", "pinyin": "Xiushan", "label": "Xiushan023" },
+      {
+        "code": "360424",
+        "name": "修水",
+        "pinyin": "Xiushui",
+        "label": "Xiushui0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "520123",
+        "name": "修文",
+        "pinyin": "Xiuwen",
+        "label": "Xiuwen0851",
+        "cityCode": "5201",
+        "provinceCode": "52"
+      },
+      {
+        "code": "410821",
+        "name": "修武",
+        "pinyin": "Xiuwu",
+        "label": "Xiuwu0391",
+        "cityCode": "4108",
+        "provinceCode": "41"
+      },
+      { "code": "0871", "name": "寻甸", "pinyin": "Xundian", "label": "Xundian0871" },
+      {
+        "code": "360734",
+        "name": "寻乌",
+        "pinyin": "Xunwu",
+        "label": "Xunwu0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "440825",
+        "name": "徐闻",
+        "pinyin": "Xuwen",
+        "label": "Xuwen0759",
+        "cityCode": "4408",
+        "provinceCode": "44"
+      },
+      {
+        "code": "320830",
+        "name": "盱眙",
+        "pinyin": "Xuyi",
+        "label": "Xuyi0517",
+        "cityCode": "3208",
+        "provinceCode": "32"
+      }
+    ],
+    "Y": [
+      { "code": "5118", "name": "雅安", "pinyin": "Yaan", "label": "Yaan0835", "provinceCode": "51" },
+      { "code": "3210", "name": "扬州", "pinyin": "Yangzhou", "label": "Yangzhou0514", "provinceCode": "32" },
+      { "code": "3706", "name": "烟台", "pinyin": "Yantai", "label": "Yantai0535", "provinceCode": "37" },
+      { "code": "6106", "name": "延安", "pinyin": "Yanan", "label": "Yanan0911", "provinceCode": "61" },
+      { "code": "0433", "name": "延边", "pinyin": "Yanbian", "label": "Yanbian0433" },
+      { "code": "3209", "name": "盐城", "pinyin": "Yancheng", "label": "Yancheng0515", "provinceCode": "32" },
+      { "code": "4417", "name": "阳江", "pinyin": "Yangjiang", "label": "Yangjiang0662", "provinceCode": "44" },
+      { "code": "1403", "name": "阳泉", "pinyin": "Yangquan", "label": "Yangquan0353", "provinceCode": "14" },
+      { "code": "5115", "name": "宜宾", "pinyin": "Yibin", "label": "Yibin0831", "provinceCode": "51" },
+      { "code": "4205", "name": "宜昌", "pinyin": "Yichang", "label": "Yichang0717", "provinceCode": "42" },
+      { "code": "2307", "name": "伊春", "pinyin": "Yichun", "label": "Yichun0458", "provinceCode": "23" },
+      { "code": "3609", "name": "宜春", "pinyin": "Yichun", "label": "Yichun0795", "provinceCode": "36" },
+      { "code": "0999", "name": "伊犁哈萨克", "pinyin": "Yilihasake", "label": "Yilihasake0999" },
+      { "code": "6401", "name": "银川", "pinyin": "Yinchuan", "label": "Yinchuan0951", "provinceCode": "64" },
+      { "code": "2108", "name": "营口", "pinyin": "Yingkou", "label": "Yingkou0417", "provinceCode": "21" },
+      { "code": "3606", "name": "鹰潭", "pinyin": "Yingtan", "label": "Yingtan0701", "provinceCode": "36" },
+      { "code": "4309", "name": "益阳", "pinyin": "Yiyang", "label": "Yiyang0737", "provinceCode": "43" },
+      { "code": "4311", "name": "永州", "pinyin": "Yongzhou", "label": "Yongzhou0746", "provinceCode": "43" },
+      {
+        "code": "430621",
+        "name": "岳阳",
+        "pinyin": "Yueyang",
+        "label": "Yueyang0730",
+        "cityCode": "4306",
+        "provinceCode": "43"
+      },
+      { "code": "4509", "name": "玉林", "pinyin": "Yulin", "label": "Yulin0775", "provinceCode": "45" },
+      { "code": "6108", "name": "榆林", "pinyin": "Yulin", "label": "Yulin0912", "provinceCode": "61" },
+      { "code": "1408", "name": "运城", "pinyin": "Yuncheng", "label": "Yuncheng0359", "provinceCode": "14" },
+      { "code": "4453", "name": "云浮", "pinyin": "Yunfu", "label": "Yunfu0766", "provinceCode": "44" },
+      {
+        "code": "632701",
+        "name": "玉树",
+        "pinyin": "Yushu",
+        "label": "Yushu0976",
+        "cityCode": "6327",
+        "provinceCode": "63"
+      },
+      { "code": "5304", "name": "玉溪", "pinyin": "Yuxi", "label": "Yuxi0877", "provinceCode": "53" },
+      {
+        "code": "441781",
+        "name": "阳春",
+        "pinyin": "Yangchun",
+        "label": "Yangchun0662",
+        "cityCode": "4417",
+        "provinceCode": "44"
+      },
+      {
+        "code": "441704",
+        "name": "阳东",
+        "pinyin": "Yangdong",
+        "label": "Yangdong0662",
+        "cityCode": "4417",
+        "provinceCode": "44"
+      },
+      {
+        "code": "371521",
+        "name": "阳谷",
+        "pinyin": "Yanggu",
+        "label": "Yanggu0635",
+        "cityCode": "3715",
+        "provinceCode": "37"
+      },
+      {
+        "code": "441823",
+        "name": "阳山",
+        "pinyin": "Yangshan",
+        "label": "Yangshan0763",
+        "cityCode": "4418",
+        "provinceCode": "44"
+      },
+      {
+        "code": "371622",
+        "name": "阳信",
+        "pinyin": "Yangxin",
+        "label": "Yangxin0543",
+        "cityCode": "3716",
+        "provinceCode": "37"
+      },
+      {
+        "code": "441721",
+        "name": "阳西",
+        "pinyin": "Yangxi",
+        "label": "Yangxi0662",
+        "cityCode": "4417",
+        "provinceCode": "44"
+      },
+      {
+        "code": "321182",
+        "name": "扬中",
+        "pinyin": "Yangzhong",
+        "label": "Yangzhong0511",
+        "cityCode": "3211",
+        "provinceCode": "32"
+      },
+      {
+        "code": "410381",
+        "name": "偃师",
+        "pinyin": "Yanshi",
+        "label": "Yanshi0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "230129",
+        "name": "延寿",
+        "pinyin": "Yanshou",
+        "label": "Yanshou0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "370812",
+        "name": "兖州",
+        "pinyin": "Yanzhou",
+        "label": "Yanzhou0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "410329",
+        "name": "伊川",
+        "pinyin": "Yichuan",
+        "label": "Yichuan0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "360924",
+        "name": "宜丰",
+        "pinyin": "Yifeng",
+        "label": "Yifeng0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "361026",
+        "name": "宜黄",
+        "pinyin": "Yihuang",
+        "label": "Yihuang0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "230123",
+        "name": "依兰",
+        "pinyin": "Yilan",
+        "label": "Yilan0451",
+        "cityCode": "2301",
+        "provinceCode": "23"
+      },
+      {
+        "code": "530125",
+        "name": "宜良",
+        "pinyin": "Yiliang",
+        "label": "Yiliang0871",
+        "cityCode": "5301",
+        "provinceCode": "53"
+      },
+      {
+        "code": "371321",
+        "name": "沂南",
+        "pinyin": "Yinan",
+        "label": "Yinan0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      {
+        "code": "441881",
+        "name": "英德",
+        "pinyin": "Yingde",
+        "label": "Yingde0763",
+        "cityCode": "4418",
+        "provinceCode": "44"
+      },
+      {
+        "code": "341226",
+        "name": "颍上",
+        "pinyin": "Yingshang",
+        "label": "Yingshang0558",
+        "cityCode": "3412",
+        "provinceCode": "34"
+      },
+      {
+        "code": "371323",
+        "name": "沂水",
+        "pinyin": "Yishui",
+        "label": "Yishui0539",
+        "cityCode": "3713",
+        "provinceCode": "37"
+      },
+      {
+        "code": "330782",
+        "name": "义乌",
+        "pinyin": "Yiwu",
+        "label": "Yiwu0579",
+        "cityCode": "3307",
+        "provinceCode": "33"
+      },
+      {
+        "code": "341023",
+        "name": "黟县",
+        "pinyin": "Yixian",
+        "label": "Yixian0559",
+        "cityCode": "3410",
+        "provinceCode": "34"
+      },
+      {
+        "code": "320282",
+        "name": "宜兴",
+        "pinyin": "Yixing",
+        "label": "Yixing0510",
+        "cityCode": "3202",
+        "provinceCode": "32"
+      },
+      {
+        "code": "361126",
+        "name": "弋阳",
+        "pinyin": "Yiyang",
+        "label": "Yiyang0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "410327",
+        "name": "宜阳",
+        "pinyin": "Yiyang",
+        "label": "Yiyang0379",
+        "cityCode": "4103",
+        "provinceCode": "41"
+      },
+      {
+        "code": "370323",
+        "name": "沂源",
+        "pinyin": "Yiyuan",
+        "label": "Yiyuan0533",
+        "cityCode": "3703",
+        "provinceCode": "37"
+      },
+      {
+        "code": "321081",
+        "name": "仪征",
+        "pinyin": "Yizheng",
+        "label": "Yizheng0514",
+        "cityCode": "3210",
+        "provinceCode": "32"
+      },
+      {
+        "code": "350481",
+        "name": "永安",
+        "pinyin": "Yongan",
+        "label": "Yongan0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      {
+        "code": "500118",
+        "name": "永川",
+        "pinyin": "Yongchuan",
+        "label": "Yongchuan023",
+        "cityCode": "5001",
+        "provinceCode": "50"
+      },
+      {
+        "code": "350525",
+        "name": "永春",
+        "pinyin": "Yongchun",
+        "label": "Yongchun0595",
+        "cityCode": "3505",
+        "provinceCode": "35"
+      },
+      {
+        "code": "620121",
+        "name": "永登",
+        "pinyin": "Yongdeng",
+        "label": "Yongdeng0931",
+        "cityCode": "6201",
+        "provinceCode": "62"
+      },
+      {
+        "code": "350803",
+        "name": "永定",
+        "pinyin": "Yongding",
+        "label": "Yongding0597",
+        "cityCode": "3508",
+        "provinceCode": "35"
+      },
+      {
+        "code": "360825",
+        "name": "永丰",
+        "pinyin": "Yongfeng",
+        "label": "Yongfeng0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "220221",
+        "name": "永吉",
+        "pinyin": "Yongji",
+        "label": "Yongji0423",
+        "cityCode": "2202",
+        "provinceCode": "22"
+      },
+      {
+        "code": "330324",
+        "name": "永嘉",
+        "pinyin": "Yongjia",
+        "label": "Yongjia0577",
+        "cityCode": "3303",
+        "provinceCode": "33"
+      },
+      {
+        "code": "330784",
+        "name": "永康",
+        "pinyin": "Yongkang",
+        "label": "Yongkang0579",
+        "cityCode": "3307",
+        "provinceCode": "33"
+      },
+      {
+        "code": "450109",
+        "name": "邕宁",
+        "pinyin": "Yongning",
+        "label": "Yongning0771",
+        "cityCode": "4501",
+        "provinceCode": "45"
+      },
+      {
+        "code": "350125",
+        "name": "永泰",
+        "pinyin": "Yongtai",
+        "label": "Yongtai0591",
+        "cityCode": "3501",
+        "provinceCode": "35"
+      },
+      {
+        "code": "360830",
+        "name": "永新",
+        "pinyin": "Yongxin",
+        "label": "Yongxin0796",
+        "cityCode": "3608",
+        "provinceCode": "36"
+      },
+      {
+        "code": "360425",
+        "name": "永修",
+        "pinyin": "Yongxiu",
+        "label": "Yongxiu0792",
+        "cityCode": "3604",
+        "provinceCode": "36"
+      },
+      {
+        "code": "350426",
+        "name": "尤溪",
+        "pinyin": "Youxi",
+        "label": "Youxi0598",
+        "cityCode": "3504",
+        "provinceCode": "35"
+      },
+      { "code": "023", "name": "酉阳", "pinyin": "Youyang", "label": "Youyang023" },
+      {
+        "code": "130132",
+        "name": "元氏",
+        "pinyin": "Yuanshi",
+        "label": "Yuanshi0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "371482",
+        "name": "禹城",
+        "pinyin": "Yucheng",
+        "label": "Yucheng0534",
+        "cityCode": "3714",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360731",
+        "name": "于都",
+        "pinyin": "Yudu",
+        "label": "Yudu0797",
+        "cityCode": "3607",
+        "provinceCode": "36"
+      },
+      {
+        "code": "340828",
+        "name": "岳西",
+        "pinyin": "Yuexi",
+        "label": "Yuexi0556",
+        "cityCode": "3408",
+        "provinceCode": "34"
+      },
+      {
+        "code": "361127",
+        "name": "余干",
+        "pinyin": "Yugan",
+        "label": "Yugan0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "331083",
+        "name": "玉环",
+        "pinyin": "Yuhuan",
+        "label": "Yuhuan0576",
+        "cityCode": "3310",
+        "provinceCode": "33"
+      },
+      {
+        "code": "360603",
+        "name": "余江",
+        "pinyin": "Yujiang",
+        "label": "Yujiang0701",
+        "cityCode": "3606",
+        "provinceCode": "36"
+      },
+      {
+        "code": "445322",
+        "name": "郁南",
+        "pinyin": "Yunan",
+        "label": "Yunan0766",
+        "cityCode": "4453",
+        "provinceCode": "44"
+      },
+      {
+        "code": "445303",
+        "name": "云安",
+        "pinyin": "Yunan",
+        "label": "Yunan0766",
+        "cityCode": "4453",
+        "provinceCode": "44"
+      },
+      {
+        "code": "371725",
+        "name": "郓城",
+        "pinyin": "Yuncheng",
+        "label": "Yuncheng0530",
+        "cityCode": "3717",
+        "provinceCode": "37"
+      },
+      {
+        "code": "331125",
+        "name": "云和",
+        "pinyin": "Yunhe",
+        "label": "Yunhe0578",
+        "cityCode": "3311",
+        "provinceCode": "33"
+      },
+      {
+        "code": "350622",
+        "name": "云霄",
+        "pinyin": "Yunxiao",
+        "label": "Yunxiao0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "500235",
+        "name": "云阳",
+        "pinyin": "Yunyang",
+        "label": "Yunyang023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "361123",
+        "name": "玉山",
+        "pinyin": "Yushan",
+        "label": "Yushan0793",
+        "cityCode": "3611",
+        "provinceCode": "36"
+      },
+      {
+        "code": "220182",
+        "name": "榆树",
+        "pinyin": "Yushu",
+        "label": "Yushu0431",
+        "cityCode": "2201",
+        "provinceCode": "22"
+      },
+      {
+        "code": "370827",
+        "name": "鱼台",
+        "pinyin": "Yutai",
+        "label": "Yutai0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "130229",
+        "name": "玉田",
+        "pinyin": "Yutian",
+        "label": "Yutian0315",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      },
+      {
+        "code": "330281",
+        "name": "余姚",
+        "pinyin": "Yuyao",
+        "label": "Yuyao0574",
+        "cityCode": "3302",
+        "provinceCode": "33"
+      },
+      {
+        "code": "620123",
+        "name": "榆中",
+        "pinyin": "Yuzhong",
+        "label": "Yuzhong0931",
+        "cityCode": "6201",
+        "provinceCode": "62"
+      }
+    ],
+    "Z": [
+      { "code": "3506", "name": "漳州", "pinyin": "Zhangzhou", "label": "Zhangzhou0596", "provinceCode": "35" },
+      { "code": "4101", "name": "郑州", "pinyin": "Zhengzhou", "label": "Zhengzhou0371", "provinceCode": "41" },
+      {
+        "code": "210202",
+        "name": "中山",
+        "pinyin": "Zhongshan",
+        "label": "Zhongshan0760",
+        "cityCode": "2102",
+        "provinceCode": "21"
+      },
+      { "code": "4404", "name": "珠海", "pinyin": "Zhuhai", "label": "Zhuhai0756", "provinceCode": "44" },
+      { "code": "3704", "name": "枣庄", "pinyin": "Zaozhuang", "label": "Zaozhuang0623", "provinceCode": "37" },
+      { "code": "4308", "name": "张家界", "pinyin": "Zhangjiajie", "label": "Zhangjiajie0744", "provinceCode": "43" },
+      { "code": "1307", "name": "张家口", "pinyin": "Zhangjiakou", "label": "Zhangjiakou0313", "provinceCode": "13" },
+      { "code": "6207", "name": "张掖", "pinyin": "Zhangye", "label": "Zhangye0936", "provinceCode": "62" },
+      { "code": "4408", "name": "湛江", "pinyin": "Zhanjiang", "label": "Zhanjiang0759", "provinceCode": "44" },
+      { "code": "4412", "name": "肇庆", "pinyin": "Zhaoqing", "label": "Zhaoqing0758", "provinceCode": "44" },
+      { "code": "5306", "name": "昭通", "pinyin": "Zhaotong", "label": "Zhaotong0870", "provinceCode": "53" },
+      { "code": "3211", "name": "镇江", "pinyin": "Zhenjiang", "label": "Zhenjiang0511", "provinceCode": "32" },
+      { "code": "6405", "name": "中卫", "pinyin": "Zhongwei", "label": "Zhongwei0955", "provinceCode": "64" },
+      { "code": "4116", "name": "周口", "pinyin": "Zhoukou", "label": "Zhoukou0394", "provinceCode": "41" },
+      { "code": "3309", "name": "舟山", "pinyin": "Zhoushan", "label": "Zhoushan0580", "provinceCode": "33" },
+      { "code": "4117", "name": "驻马店", "pinyin": "Zhumadian", "label": "Zhumadian0396", "provinceCode": "41" },
+      { "code": "4302", "name": "株洲", "pinyin": "Zhuzhou", "label": "Zhuzhou0731", "provinceCode": "43" },
+      { "code": "3703", "name": "淄博", "pinyin": "Zibo", "label": "Zibo0533", "provinceCode": "37" },
+      { "code": "5103", "name": "自贡", "pinyin": "Zigong", "label": "Zigong0813", "provinceCode": "51" },
+      {
+        "code": "430902",
+        "name": "资阳",
+        "pinyin": "Ziyang",
+        "label": "Ziyang028",
+        "cityCode": "4309",
+        "provinceCode": "43"
+      },
+      { "code": "5203", "name": "遵义", "pinyin": "Zunyi", "label": "Zunyi0852", "provinceCode": "52" },
+      {
+        "code": "130129",
+        "name": "赞皇",
+        "pinyin": "Zanhuang",
+        "label": "Zanhuang0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "440118",
+        "name": "增城",
+        "pinyin": "Zengcheng",
+        "label": "Zengcheng020",
+        "cityCode": "4401",
+        "provinceCode": "44"
+      },
+      {
+        "code": "320582",
+        "name": "张家港",
+        "pinyin": "Zhangjiagang",
+        "label": "Zhangjiagang0512",
+        "cityCode": "3205",
+        "provinceCode": "32"
+      },
+      {
+        "code": "350881",
+        "name": "漳平",
+        "pinyin": "Zhangping",
+        "label": "Zhangping0597",
+        "cityCode": "3508",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350623",
+        "name": "漳浦",
+        "pinyin": "Zhangpu",
+        "label": "Zhangpu0596",
+        "cityCode": "3506",
+        "provinceCode": "35"
+      },
+      {
+        "code": "370114",
+        "name": "章丘",
+        "pinyin": "Zhangqiu",
+        "label": "Zhangqiu0531",
+        "cityCode": "3701",
+        "provinceCode": "37"
+      },
+      {
+        "code": "360982",
+        "name": "樟树",
+        "pinyin": "Zhangshu",
+        "label": "Zhangshu0795",
+        "cityCode": "3609",
+        "provinceCode": "36"
+      },
+      {
+        "code": "371603",
+        "name": "沾化",
+        "pinyin": "Zhanhua",
+        "label": "Zhanhua0543",
+        "cityCode": "3716",
+        "provinceCode": "37"
+      },
+      {
+        "code": "130133",
+        "name": "赵县",
+        "pinyin": "Zhaoxian",
+        "label": "Zhaoxian0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "370685",
+        "name": "招远",
+        "pinyin": "Zhaoyuan",
+        "label": "Zhaoyuan0535",
+        "cityCode": "3706",
+        "provinceCode": "37"
+      },
+      {
+        "code": "130123",
+        "name": "正定",
+        "pinyin": "Zhengding",
+        "label": "Zhengding0311",
+        "cityCode": "1301",
+        "provinceCode": "13"
+      },
+      {
+        "code": "350725",
+        "name": "政和",
+        "pinyin": "Zhenghe",
+        "label": "Zhenghe0599",
+        "cityCode": "3507",
+        "provinceCode": "35"
+      },
+      {
+        "code": "350926",
+        "name": "柘荣",
+        "pinyin": "Zherong",
+        "label": "Zherong0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "410122",
+        "name": "中牟",
+        "pinyin": "Zhongmou",
+        "label": "Zhongmou0371",
+        "cityCode": "4101",
+        "provinceCode": "41"
+      },
+      {
+        "code": "500233",
+        "name": "忠县",
+        "pinyin": "Zhongxian",
+        "label": "Zhongxian023",
+        "cityCode": "5002",
+        "provinceCode": "50"
+      },
+      {
+        "code": "350925",
+        "name": "周宁",
+        "pinyin": "Zhouning",
+        "label": "Zhouning0593",
+        "cityCode": "3509",
+        "provinceCode": "35"
+      },
+      {
+        "code": "610124",
+        "name": "周至",
+        "pinyin": "Zhouzhi",
+        "label": "Zhouzhi029",
+        "cityCode": "6101",
+        "provinceCode": "61"
+      },
+      {
+        "code": "210283",
+        "name": "庄河",
+        "pinyin": "Zhuanghe",
+        "label": "Zhuanghe0411",
+        "cityCode": "2102",
+        "provinceCode": "21"
+      },
+      {
+        "code": "370782",
+        "name": "诸城",
+        "pinyin": "Zhucheng",
+        "label": "Zhucheng0536",
+        "cityCode": "3707",
+        "provinceCode": "37"
+      },
+      {
+        "code": "330681",
+        "name": "诸暨",
+        "pinyin": "Zhuji",
+        "label": "Zhuji0575",
+        "cityCode": "3306",
+        "provinceCode": "33"
+      },
+      {
+        "code": "441621",
+        "name": "紫金",
+        "pinyin": "Zijin",
+        "label": "Zijin0762",
+        "cityCode": "4416",
+        "provinceCode": "44"
+      },
+      {
+        "code": "361028",
+        "name": "资溪",
+        "pinyin": "Zixi",
+        "label": "Zixi0794",
+        "cityCode": "3610",
+        "provinceCode": "36"
+      },
+      {
+        "code": "370883",
+        "name": "邹城",
+        "pinyin": "Zoucheng",
+        "label": "Zoucheng0537",
+        "cityCode": "3708",
+        "provinceCode": "37"
+      },
+      {
+        "code": "371681",
+        "name": "邹平",
+        "pinyin": "Zouping",
+        "label": "Zouping0543",
+        "cityCode": "3716",
+        "provinceCode": "37"
+      },
+      {
+        "code": "130281",
+        "name": "遵化",
+        "pinyin": "Zunhua",
+        "label": "Zunhua0315",
+        "cityCode": "1302",
+        "provinceCode": "13"
+      }
+    ]
+  }
+  
